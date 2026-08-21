@@ -1,0 +1,3002 @@
+[
+ {
+  "id": 1,
+  "domain": "performs_common_occupational_skills",
+  "front": "What does the WHMIS 2015 flame pictogram identify?",
+  "back": "The flame pictogram identifies a flammable product that can catch fire easily near heat or a flame. An oxidizer uses a flame over a circle, and corrosion and gas use their own pictograms."
+ },
+ {
+  "id": 2,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is an SDS, and what does it contain?",
+  "back": "An SDS, or safety data sheet, replaces the old MSDS and contains detailed product information including hazards, first aid measures, handling, storage, and disposal. A worker has the right to read it before using a product."
+ },
+ {
+  "id": 3,
+  "domain": "performs_common_occupational_skills",
+  "front": "List the lock-out and tag-out steps in order.",
+  "back": "Notify affected people, shut down the equipment, isolate the energy with a lock and tag at the energy-isolating device, try to start it to prove the energy is gone, then do the work. Each worker owns and removes their own lock."
+ },
+ {
+  "id": 4,
+  "domain": "performs_common_occupational_skills",
+  "front": "What are the three defining features of a confined space?",
+  "back": "A confined space is large enough to enter, is not designed for continuous occupancy, and has limited entry and exit. Examples include sewer maintenance holes, water tanks, sumps, and deep trenches."
+ },
+ {
+  "id": 5,
+  "domain": "performs_common_occupational_skills",
+  "front": "Why must a collapsed worker never be rescued by someone entering the space?",
+  "back": "Entering without testing and rescue equipment turns one victim into two. Rescue must come from outside with a tripod, harness, and trained rescuers after the atmosphere is tested."
+ },
+ {
+  "id": 6,
+  "domain": "performs_common_occupational_skills",
+  "front": "At about what depth does a trench normally require shoring, shielding, or sloping?",
+  "back": "A trench deeper than about 1.2 m, or about 4 ft, normally requires shoring, shielding, or sloping, and the choice depends on the soil type. The spoil pile is kept back from the edge."
+ },
+ {
+  "id": 7,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is the correct angle to set a straight ladder?",
+  "back": "Set the base about 1 unit out from the wall for every 4 units of height, and extend it about 1 m above the landing. Keep three points of contact and never stand on the top two rungs."
+ },
+ {
+  "id": 8,
+  "domain": "performs_common_occupational_skills",
+  "front": "How does a sling's capacity change as its legs spread wider?",
+  "back": "As the angle from vertical increases, the tension in each leg rises above half the load, so the sling's useful capacity drops. A sling rated for a vertical lift cannot carry the same load at a wide angle."
+ },
+ {
+  "id": 9,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is a flashback arrestor on a torch setup for?",
+  "back": "A flashback arrestor stops the flame from travelling back up the hose into the fuel gas cylinder. It is required on soldering and brazing torch setups, along with a regulator and leak-free hose."
+ },
+ {
+  "id": 10,
+  "domain": "performs_common_occupational_skills",
+  "front": "What must be done after hot work such as soldering or brazing is finished?",
+  "back": "Watch the area for a period, usually about 30 minutes, to catch a smouldering fire that can flare after the work ends. The hot work permit and a nearby fire extinguisher are also required."
+ },
+ {
+  "id": 11,
+  "domain": "performs_common_occupational_skills",
+  "front": "Which gloves protect against solvents and which protect against heat?",
+  "back": "Chemical resistant nitrile or rubber gloves protect against solvents, while leather gloves protect against heat and abrasion. The glove is matched to the hazard of the task."
+ },
+ {
+  "id": 12,
+  "domain": "performs_common_occupational_skills",
+  "front": "What does a dust mask not protect against?",
+  "back": "A dust mask does not protect against solvent vapours or other gases, and a cartridge respirator is not safe in an oxygen-deficient space. The respirator type must match the contaminant and concentration."
+ },
+ {
+  "id": 13,
+  "domain": "performs_common_occupational_skills",
+  "front": "What are the three WHMIS pictograms a plumber sees most often?",
+  "back": "The flame for flammables, the corrosion pictogram for skin and metal damage, and the exclamation mark for less severe hazards such as skin and eye irritation. Each pictogram names a different hazard class."
+ },
+ {
+  "id": 14,
+  "domain": "performs_common_occupational_skills",
+  "front": "Why is PPE called the last line of defence?",
+  "back": "Personal protective equipment protects the worker only after the hazard has been controlled by other means. Elimination, substitution, engineering controls, and procedures come first, and PPE is the final barrier."
+ },
+ {
+  "id": 15,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is a hot work permit a record of?",
+  "back": "The permit is the record that someone assessed the fire hazard and approved the work. It is completed before the work, and a fire watch follows the work to catch delayed fires."
+ },
+ {
+  "id": 16,
+  "domain": "performs_common_occupational_skills",
+  "front": "Name two gases found in sewers that make entry dangerous.",
+  "back": "Hydrogen sulfide, which has a rotten egg smell at low levels but deadens smell at high levels, and methane, which can displace oxygen or ignite. The atmosphere is always tested before entry."
+ },
+ {
+  "id": 17,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is the purpose of a pipe wrench's jaw design?",
+  "back": "The pipe wrench is pulled, never pushed, so the jaws grip harder instead of slipping. Using the correct size prevents damage to the pipe and rounding of fittings."
+ },
+ {
+  "id": 18,
+  "domain": "performs_common_occupational_skills",
+  "front": "How is a tubing cutter used correctly?",
+  "back": "The cutter wheel is tightened gradually as the cutter rotates so the tube is cut square without being crushed. The inside is then reamed or deburred before the joint is made."
+ },
+ {
+  "id": 19,
+  "domain": "performs_common_occupational_skills",
+  "front": "Name four common plumbing power tools and one shared safety rule.",
+  "back": "Drills, reciprocating saws, angle grinders, and threading machines are common. They all require inspection before use, eye protection, guards in place, and disconnection before changing blades or bits."
+ },
+ {
+  "id": 20,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is an RFI used for?",
+  "back": "A request for information is raised when drawings and site conditions disagree, so the plumber gets a written answer instead of guessing. Permits and as-built drawings are other key documents."
+ },
+ {
+  "id": 21,
+  "domain": "performs_common_occupational_skills",
+  "front": "What factor is used to find the travel length of a 45 degree offset?",
+  "back": "Multiply the offset distance by 1.414 to find the pipe travel between two 45 degree fittings. A 22.5 degree offset uses a factor of 2.613, and fitting allowances are subtracted from the measured length."
+ },
+ {
+  "id": 22,
+  "domain": "performs_common_occupational_skills",
+  "front": "Why must open pipe ends be capped during construction?",
+  "back": "Capping or plugging open ends prevents debris from entering the system and later causing stoppages. Exposed piping is also protected from damage, freezing, and other trades."
+ },
+ {
+  "id": 23,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is fire stopping, and when is it required?",
+  "back": "Fire stopping is the material installed around a pipe where it passes through a rated wall or floor to stop fire and smoke. It must match the rating of the assembly and is installed at every penetration."
+ },
+ {
+  "id": 24,
+  "domain": "performs_common_occupational_skills",
+  "front": "How does a journeyperson mentor an apprentice correctly?",
+  "back": "The journeyperson shows the task, explains why it is done that way, watches the apprentice work, and corrects mistakes before they become habits. The correct answer is explain, demonstrate, and verify."
+ },
+ {
+  "id": 25,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is commissioning a plumbing system?",
+  "back": "Commissioning is testing the completed system before handover: filling, checking for leaks, testing drainage, flushing water lines, and verifying fixtures operate with hot and cold connected correctly."
+ },
+ {
+  "id": 26,
+  "domain": "performs_common_occupational_skills",
+  "front": "Why is spoil kept back from a trench edge?",
+  "back": "Spoil piled at the edge can fall into the trench, add load that causes a cave-in, and endanger workers. It is kept back and the edge is protected with barriers."
+ },
+ {
+  "id": 27,
+  "domain": "performs_common_occupational_skills",
+  "front": "Name the two main types of respiratory protection and what each is for.",
+  "back": "Air-purifying respirators filter contaminated air, and atmosphere-supplying respirators provide clean air from a separate source. The air-supplying type is used where the atmosphere cannot support breathing."
+ },
+ {
+  "id": 28,
+  "domain": "performs_common_occupational_skills",
+  "front": "What does LOTO apply to besides electrical energy?",
+  "back": "Lock-out and tag-out also applies to steam, compressed air, pressurized water, and stored energy in springs or suspended loads. Any energy that could move or injure must be isolated."
+ },
+ {
+  "id": 29,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is the purpose of a come-along?",
+  "back": "A come-along is a hand-operated puller used to pull and position loads. Like a chain fall, it must never exceed its rated capacity and is inspected before use."
+ },
+ {
+  "id": 30,
+  "domain": "performs_common_occupational_skills",
+  "front": "Why is a load rating stamped on rigging important?",
+  "back": "The stamped rating tells the worker the maximum load the device can safely carry. A device with no rating, or with wear, is removed from service until rated and inspected."
+ },
+ {
+  "id": 31,
+  "domain": "performs_common_occupational_skills",
+  "front": "What are as-built drawings?",
+  "back": "As-built drawings record what was actually installed, including changes made on site. They matter when the next tradesperson works on the building or a repair is needed."
+ },
+ {
+  "id": 32,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is the first aid rule for a chemical splash to the eyes?",
+  "back": "Flush the eyes with clean water or an eyewash station for the time the SDS specifies, and get medical help. The SDS gives the specific first aid for each product."
+ },
+ {
+  "id": 33,
+  "domain": "performs_common_occupational_skills",
+  "front": "Why must a worker not use a flame to search for a gas leak?",
+  "back": "An open flame can ignite the gas and cause an explosion. Leaks are found with soapy water that bubbles at the joint or with an electronic leak detector."
+ },
+ {
+  "id": 34,
+  "domain": "performs_common_occupational_skills",
+  "front": "What three points of contact mean on a ladder?",
+  "back": "Keep two hands and one foot, or two feet and one hand, on the ladder at all times while climbing or working. This prevents a fall if the ladder shifts."
+ },
+ {
+  "id": 35,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is the difference between a flammable product and an oxidizer?",
+  "back": "A flammable product catches fire easily itself, while an oxidizer makes a fire that is already burning burn harder. They carry different WHMIS pictograms and handling rules."
+ },
+ {
+  "id": 36,
+  "domain": "performs_common_occupational_skills",
+  "front": "Why is trench soil type part of the safety decision?",
+  "back": "Loose sand collapses easily and clay can hold then let go without warning, so the soil type decides which shoring, shielding, or sloping protects the workers."
+ },
+ {
+  "id": 37,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is the employer's duty under WHMIS 2015?",
+  "back": "The employer must train workers on the hazardous products they use and keep SDSs available. The worker has the right to see the SDS before using a product."
+ },
+ {
+  "id": 38,
+  "domain": "performs_common_occupational_skills",
+  "front": "How is a scaffold made safe before use?",
+  "back": "It is erected on solid, level footing, fitted with guardrails when high enough, and the platform is kept complete. A missing plank stops the work until it is replaced."
+ },
+ {
+  "id": 39,
+  "domain": "performs_common_occupational_skills",
+  "front": "What does a tag alone never do on LOTO?",
+  "back": "A tag is a warning, not a lock. A lock physically prevents the energy-isolating device from being operated, and only the worker who installed it removes it."
+ },
+ {
+  "id": 40,
+  "domain": "performs_common_occupational_skills",
+  "front": "Why are crane hand signals part of plumbing work?",
+  "back": "A plumber on a site may act as a spotter or rigger, so knowing stop, hoist, lower, and boom signals lets the worker communicate safely with the crane operator."
+ },
+ {
+  "id": 41,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is the difference between soldering and brazing equipment?",
+  "back": "Soldering uses lower temperatures, often with a fuel gas torch, while brazing uses higher temperatures and usually oxyfuel equipment. Both use regulators, hoses, and flashback arrestors."
+ },
+ {
+  "id": 42,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is the maximum time to leave a fire watch after hot work?",
+  "back": "The fire watch continues for a period after the work ends, commonly about 30 minutes, because a smouldering fire can flare later. The permit specifies the requirement."
+ },
+ {
+  "id": 43,
+  "domain": "performs_common_occupational_skills",
+  "front": "Why is an unlabelled chemical container dangerous?",
+  "back": "Without a label, the product cannot be identified and the correct handling is unknown. An unlabelled container is returned and a labelled container or the SDS is obtained before use."
+ },
+ {
+  "id": 44,
+  "domain": "performs_common_occupational_skills",
+  "front": "What protects a worker's hearing on a loud site?",
+  "back": "Hearing protection, such as ear plugs or muffs, is worn around loud tools. The type is matched to the noise level and the task."
+ },
+ {
+  "id": 45,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is the purpose of a spotter on an excavation?",
+  "back": "The spotter watches the trench, equipment, and surroundings to warn of hazards, but the spotter does not replace shoring or sloping. The protection is installed before entry."
+ },
+ {
+  "id": 46,
+  "domain": "performs_common_occupational_skills",
+  "front": "How are permits and inspections sequenced on a plumbing job?",
+  "back": "Permits are pulled before work starts, and inspections are booked at the stages the authority requires. The system is tested and corrected before each inspection."
+ },
+ {
+  "id": 47,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is the purpose of a pipe support?",
+  "back": "Supports hold the pipe so it does not sag under its own weight and the weight of water, and they allow movement where the pipe expands and contracts. Spacing depends on the material and size."
+ },
+ {
+  "id": 48,
+  "domain": "performs_common_occupational_skills",
+  "front": "Why is a sleeve installed around a pipe through a wall?",
+  "back": "The sleeve protects the pipe from abrasion and allows movement, and the opening is then fire stopped where the wall or floor is a fire separation."
+ },
+ {
+  "id": 49,
+  "domain": "performs_common_occupational_skills",
+  "front": "What happens if a long hot water line is rigidly clamped at both ends?",
+  "back": "The pipe cannot expand with temperature change, so the stress concentrates at the joints and can cause a leak or failure. Supports must allow movement."
+ },
+ {
+  "id": 50,
+  "domain": "performs_common_occupational_skills",
+  "front": "Name the three types of slings and one common failure.",
+  "back": "Slings are made of synthetic web, wire rope, or chain. A cut in the webbing or a missing rating removes the sling from service, and the capacity drops as the sling angle widens."
+ },
+ {
+  "id": 51,
+  "domain": "performs_common_occupational_skills",
+  "front": "Why does a plumber read mechanical drawings before cutting?",
+  "back": "The drawings show fixture locations, pipe sizes, elevations, and specifications, so the plumber plans the layout and materials before the first cut. Changes are confirmed with an RFI."
+ },
+ {
+  "id": 52,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is a chain fall used for?",
+  "back": "A chain fall is a hoist used to lift loads by hand through a chain and gear system. The load must never exceed the rated capacity, and the chain is inspected for wear."
+ },
+ {
+  "id": 53,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is the rule about standing on a stepladder?",
+  "back": "Never stand on the top two rungs, never overreach, and keep three points of contact. The ladder is opened fully and set on solid ground."
+ },
+ {
+  "id": 54,
+  "domain": "performs_common_occupational_skills",
+  "front": "How is a solvent cement spill cleaned safely?",
+  "back": "Wear chemical resistant gloves and eye protection, contain the spill, and follow the SDS for cleanup and disposal. Cotton and leather gloves do not protect against solvents."
+ },
+ {
+  "id": 55,
+  "domain": "performs_common_occupational_skills",
+  "front": "What is the purpose of a fire extinguisher during hot work?",
+  "back": "It provides a way to put out a small fire before it grows. It is kept within reach for the whole hot work task, and the area is watched after the work ends."
+ },
+ {
+  "id": 56,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Which copper type is used for underground water services?",
+  "back": "Type K has the thickest wall and is used underground where the pipe must resist crushing and corrosion. Type L is the standard interior wall, and Type M is the thinnest and not used underground."
+ },
+ {
+  "id": 57,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is ABS and where is it used?",
+  "back": "ABS is a black plastic used for drainage, waste, and vent piping above and below ground. It is joined with ABS solvent cement and primer."
+ },
+ {
+  "id": 58,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is the difference between PVC and CPVC?",
+  "back": "PVC is used for DWV, cold water, and sewers, while CPVC is rated for hot water because of its chlorine content. Each requires its own rated solvent cement."
+ },
+ {
+  "id": 59,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is PEX and how is it joined?",
+  "back": "PEX is cross-linked polyethylene used for water distribution. It is joined with crimp or expansion fittings and matched tooling, never with solvent cement or solder, and must be protected from sunlight."
+ },
+ {
+  "id": 60,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is HDPE used for and how is it joined?",
+  "back": "HDPE, high-density polyethylene, is used for buried water services and sewers and is joined by heat fusion, either butt fusion or electrofusion. The joint must stay still while it cools."
+ },
+ {
+  "id": 61,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Why is the inside of copper tube reamed after cutting?",
+  "back": "Reaming removes the burr so it does not restrict flow, trap debris, or erode in the water system. A square, deburred end is required for a good joint."
+ },
+ {
+  "id": 62,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is springback in tube bending?",
+  "back": "Springback is the tube's tendency to relax partway back from the bend. The bender overbends slightly to allow for it, and the radius must be large enough to avoid kinking or flattening."
+ },
+ {
+  "id": 63,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Where is flux applied on a soldered copper joint?",
+  "back": "Flux is applied to the tube end only, never inside the fitting socket, so it is not pushed ahead of the tube and contaminate the joint."
+ },
+ {
+  "id": 64,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Where is the heat applied when soldering copper?",
+  "back": "Heat is applied to the fitting and moved around so the whole joint heats evenly. The solder is touched to the joint and capillary action pulls it around the circumference."
+ },
+ {
+  "id": 65,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "At what temperature range does brazing filler melt?",
+  "back": "Brazing filler melts above 450 degrees Celsius, while soldering uses a lower melting filler. Brazing is used where the joint must be stronger or the service temperature is high."
+ },
+ {
+  "id": 66,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is a press-fit copper fitting?",
+  "back": "A press-fit fitting has an O-ring inside and is compressed around the tube with a powered tool. The tube must be cut square, deburred, and inserted to the depth mark, and the tool must match the brand and size."
+ },
+ {
+  "id": 67,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "How is a solvent-cemented plastic joint made correctly?",
+  "back": "Cut square, chamfer, prime both surfaces, apply cement to the pipe and socket, push the pipe fully home with a slight twist, and hold it. The cement must match the pipe material."
+ },
+ {
+  "id": 68,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is a go-no-go gauge used for on PEX?",
+  "back": "The go side must slide over a correct crimp ring, and the no-go side must not. If the go side will not slide, the ring is under-crimped, and if the no-go side slides over, the ring is over-crimped. Either way the fitting must be cut out and remade."
+ },
+ {
+  "id": 69,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "How many threads should remain exposed on a threaded steel joint?",
+  "back": "Two to three threads remain exposed and the joint is wrench tight. The sealant, pipe dope or Teflon tape, is applied to the male threads before assembly."
+ },
+ {
+  "id": 70,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What are grooved and flanged joints used for?",
+  "back": "Grooved couplings clamp around grooved pipe ends for large mains and risers, while flanged joints bolt together for equipment that must be opened repeatedly. Flange bolts are tightened in a crossing pattern."
+ },
+ {
+  "id": 71,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "How is hub and spigot cast iron joined?",
+  "back": "The spigot is packed into the hub with a gasket or with oakum, and the joint is sealed with molten lead or a neoprene gasket. The pipe is supported so the joint stays rigid."
+ },
+ {
+  "id": 72,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "How is no-hub cast iron joined?",
+  "back": "The two plain ends are butted and covered with a stainless steel coupling and rubber sleeve tightened with clamps. The coupling is torqued to spec and the pipe is supported near the joint."
+ },
+ {
+  "id": 73,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What fitting separates copper from galvanized steel?",
+  "back": "A dielectric union separates the two metals with an insulator, stopping the galvanic corrosion that eats the steel. A brass nipple between them is not a dielectric connection."
+ },
+ {
+  "id": 74,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Name five common fittings and their jobs.",
+  "back": "Elbows change direction, tees join three pipes, couplings join two same-size pipes, unions allow later disconnection, and reducers or bushings change size. Caps close ends and adapters change connection type."
+ },
+ {
+  "id": 75,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is the difference between a flare and a compression fitting?",
+  "back": "A flare fitting seats a flared tube end against a cone, while a compression fitting compresses a ferrule around the tube as the nut tightens. Both join tube without heat."
+ },
+ {
+  "id": 76,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Why is a sanitary tee oriented with the flow?",
+  "back": "A sanitary tee is installed so the side inlet sweeps in the direction of flow, guiding discharge gently. Installed backward or facing upstream it creates a stoppage point."
+ },
+ {
+  "id": 77,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is a long sweep fitting for?",
+  "back": "A long sweep is used on drainage changes of direction so solids keep moving instead of dropping out at a sharp corner. Sharp 90 degree turns are avoided in drainage."
+ },
+ {
+  "id": 78,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Why must PEX be protected from sunlight?",
+  "back": "Sunlight degrades PEX over time, so it is stored and installed away from UV exposure. The same rule applies to many plastics."
+ },
+ {
+  "id": 79,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is a dielectric union made of?",
+  "back": "A dielectric union has a plastic or rubber insulator between its two metal halves, so copper and steel are electrically separated and do not form a galvanic cell."
+ },
+ {
+  "id": 80,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "How is Teflon tape applied to threads?",
+  "back": "Wrap the tape in the direction of the threads so it does not bunch or tear, then assemble the joint. Pipe dope is an alternative applied in a thin even coat on the male threads."
+ },
+ {
+  "id": 81,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What happens if a threaded joint is forced in too far?",
+  "back": "Forcing the pipe in too far can split the fitting, while too few threads leave a weak joint. Two to three exposed threads is the correct make-up."
+ },
+ {
+  "id": 82,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is checked on pipe and fittings before installation?",
+  "back": "Every length and fitting is inspected for damage, dents, cracks, ovality, plugged openings, and damaged threads. A defect found on the bench costs a minute instead of a day."
+ },
+ {
+  "id": 83,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is a bushing used for?",
+  "back": "A bushing fits into a larger fitting opening to accept a smaller pipe, changing the size at the connection. A reducer transitions between sizes in a run."
+ },
+ {
+  "id": 84,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "How is HDPE butt fusion performed?",
+  "back": "The two pipe ends are melted against a heater plate and pressed together to form one continuous pipe. The joint is held still while it cools or the weld tears."
+ },
+ {
+  "id": 85,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Why is a flanged joint used at a pump?",
+  "back": "A flanged joint bolts together with a gasket and can be opened repeatedly, which suits pumps, valves, and equipment that must be removed for service. The bolts are tightened evenly."
+ },
+ {
+  "id": 86,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is the purpose of reaming after cutting?",
+  "back": "Reaming removes the burr on the inside of the pipe so it does not restrict flow, trap debris, or erode. It also prepares the end for a proper joint."
+ },
+ {
+  "id": 87,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Why does the cement have to match the pipe material?",
+  "back": "ABS cement is for ABS, PVC cement for PVC, and CPVC needs a cement rated for its higher temperature. The wrong cement produces a joint that fails later."
+ },
+ {
+  "id": 88,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is the advantage of a press-fit joint on a renovation?",
+  "back": "Press-fit removes the open flame from the job, which matters where hot work permits and fire watches add cost. It also saves time when the tube is prepared correctly."
+ },
+ {
+  "id": 89,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is electrofusion?",
+  "back": "Electrofusion uses a fitting with a built-in heating coil to melt the pipe and fitting together electrically. It is one of the heat-fusion methods for HDPE."
+ },
+ {
+  "id": 90,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Why is a hacksaw blade installed with the teeth forward?",
+  "back": "The teeth point forward so the saw cuts on the push stroke, which is the correct direction for a hacksaw blade. The pipe is then reamed and deburred."
+ },
+ {
+  "id": 91,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is the difference between a coupling and a union?",
+  "back": "A coupling joins two pipes permanently, while a union can be unscrewed to disconnect the line later. Unions are used at pumps and valves that will be serviced."
+ },
+ {
+  "id": 92,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Why must a reciprocating saw cut on cast iron be supported?",
+  "back": "The pipe must be braced so it does not drop when the last bit of metal parts. A falling pipe can injure the worker or damage the joint."
+ },
+ {
+  "id": 93,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is the purpose of an adapter fitting?",
+  "back": "An adapter changes the connection type, such as from threaded to solvent weld or from copper to PEX. It allows different materials and systems to be joined."
+ },
+ {
+  "id": 94,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "How is a copper tube bend kept from kinking?",
+  "back": "The bend radius is kept large enough for the tube size, and a spring bender, hand bender, or mechanical bender is used. A kinked or flattened bend is a defect."
+ },
+ {
+  "id": 95,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is a cap versus a plug?",
+  "back": "A cap closes the end of a pipe, while a plug closes the opening in a fitting. Both are used to close open ends and are removed at connection."
+ },
+ {
+  "id": 96,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Why is pipe stored flat and protected?",
+  "back": "Storing pipe flat and protected from dirt, weather, and crushing keeps it undamaged and clean. Fragile plastic pipe and fittings are kept where they will not be crushed."
+ },
+ {
+  "id": 97,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is the danger of using a flame on a leaking gas fitting?",
+  "back": "A flame can ignite the leaking gas and cause an explosion. Leaks are found with soapy water or an electronic detector, and the torch is never used to search for them."
+ },
+ {
+  "id": 98,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "How is a compression fitting reused?",
+  "back": "A compression fitting can be taken apart and reused if the ferrule is in good shape. It is common on visible fixture supplies because it needs no torch."
+ },
+ {
+  "id": 99,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is the purpose of a go-no-go gauge on a PEX crimp?",
+  "back": "The gauge verifies the crimp was made within the allowed range. A joint that fails the go side is under-crimped, and a joint that lets the no-go side slide over is over-crimped. Both must be cut out and remade."
+ },
+ {
+  "id": 100,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Why is a flare required to be clean and smooth?",
+  "back": "A cracked or rough flare leaks, so the tube end is cut, deburred, and flared evenly before the fitting is assembled. The flare seats against the cone in the fitting."
+ },
+ {
+  "id": 101,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What are the two heat-fusion methods for HDPE?",
+  "back": "Butt fusion melts and presses two pipe ends together, while electrofusion uses a fitting with a heating coil. Both require clean surfaces and a still cooling joint."
+ },
+ {
+  "id": 102,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Why are galvanized and black steel used differently?",
+  "back": "Black steel carries gas and hydronic water, while galvanized steel, with its zinc coating, was the older water supply material. Each is threaded, and transitions use dielectric fittings."
+ },
+ {
+  "id": 103,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is a transition fitting?",
+  "back": "A transition fitting joins different materials or connection types without leaking, such as CPVC or PEX to a threaded brass valve. It prevents leaks and reactions between materials."
+ },
+ {
+  "id": 104,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Why does a soldered joint fail if the fit is loose?",
+  "back": "A loose fit leaves a gap too wide for the solder to fill by capillary action, while a forced fit can drive solder into the tube. The fit must be right for the joint to seal."
+ },
+ {
+  "id": 105,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is the difference between a reducer and a bushing?",
+  "back": "A reducer transitions pipe size in a run, while a bushing fits into a larger fitting to accept a smaller pipe. Both change size but at different points."
+ },
+ {
+  "id": 106,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "Why must a solvent-cemented joint be held after assembly?",
+  "back": "The cement needs time to set, and holding the joint prevents the pipe from backing out. The pipe must reach the bottom of the socket or the joint leaks."
+ },
+ {
+  "id": 107,
+  "domain": "prepares_and_assembles_tube_tubing_and_pipe",
+  "front": "What is the purpose of a nipple?",
+  "back": "A nipple is a short length of threaded pipe used to connect two fittings or a fitting to equipment. It is threaded on both ends and joined with sealant."
+ },
+ {
+  "id": 108,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What are the three jobs of a DWV system?",
+  "back": "The drain and waste pipes carry water and sewage out of the building, and the vent pipes protect the trap seals by admitting air. Every fixture has a trap whose water seal stops sewer gas."
+ },
+ {
+  "id": 109,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the minimum trap seal depth required by code?",
+  "back": "The minimum trap seal depth is 50 mm, about 2 in, measured from the crown weir to the top of the dip. A shallower seal lets sewer gas through."
+ },
+ {
+  "id": 110,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a wet vent?",
+  "back": "A wet vent is a pipe that drains some fixtures while it vents another. A common example is a 2 in pipe that drains a tub and lavatory while venting a water closet."
+ },
+ {
+  "id": 111,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the minimum drain size for a water closet?",
+  "back": "A water closet drain is a minimum of 3 in. The closet flange matches the 3 in drain, while the building sewer is typically 4 in where water closets discharge."
+ },
+ {
+  "id": 112,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a drainage branch sized?",
+  "back": "The drainage fixture units of the connected fixtures are totalled and matched to the code table. The largest load along the pipe decides the size, and minimum sizes still apply."
+ },
+ {
+  "id": 113,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the common slope for smaller drainage pipe?",
+  "back": "Smaller drainage pipe commonly needs about a 2 percent slope, roughly 1/4 in per foot, and larger pipe about 1 percent, roughly 1/8 in per foot. The code sets the exact minimum."
+ },
+ {
+  "id": 114,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a belly in a drainage pipe?",
+  "back": "A belly is a sag in a drainage pipe where water and solids collect. It is caused by poor bedding or support and becomes a permanent stoppage point."
+ },
+ {
+  "id": 115,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Where is a cleanout required?",
+  "back": "Cleanouts are required at the base of every stack, at changes of direction greater than about 45 degrees, and at intervals along long horizontal runs. They must remain accessible."
+ },
+ {
+  "id": 116,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the trap arm and its limit?",
+  "back": "The trap arm is the pipe between the trap weir and the vent. Its maximum length grows with pipe size, roughly 1.2 m for 1 1/4 in up to longer runs for larger pipe, and an arm that is too long siphons the trap."
+ },
+ {
+  "id": 117,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Name three ways a trap loses its seal.",
+  "back": "A trap loses its seal by siphonage, evaporation, or back pressure. Venting stops siphonage and back pressure, and a trap seal primer replaces evaporated water on unused traps."
+ },
+ {
+  "id": 118,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a stack vent?",
+  "back": "A stack vent is the extension of a soil or waste stack above the highest fixture, carrying only air. It must be at least one half the size of the stack in common practice."
+ },
+ {
+  "id": 119,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a circuit vent?",
+  "back": "A circuit vent protects a battery of fixtures by connecting to the horizontal branch upstream of the traps. A relief vent downstream protects the traps the circuit vent cannot see."
+ },
+ {
+  "id": 120,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is an individual vent, also called a revent?",
+  "back": "An individual vent runs from the drain just downstream of the trap, between the trap and the stack, and rises to the vent system. It must rise above the flood level rim of the fixture."
+ },
+ {
+  "id": 121,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is no-hub cast iron joined?",
+  "back": "No-hub cast iron uses a stainless steel coupling with a rubber sleeve clamped over the plain ends. The coupling is torqued to spec and the pipe is supported near the joint."
+ },
+ {
+  "id": 122,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a sanitary tee oriented?",
+  "back": "The side inlet sweeps in the direction of flow so discharge is guided gently into the branch. Facing upstream or backward creates a stoppage point."
+ },
+ {
+  "id": 123,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What does the smoke test check?",
+  "back": "The smoke test pushes a visible smoke through the system to reveal open or broken vent connections and any dry trap. Escaping smoke shows exactly where the leak is."
+ },
+ {
+  "id": 124,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the water test for a DWV system?",
+  "back": "The lower end is plugged, the system is filled to the highest point, and the level is watched for a period. A falling level means a leak."
+ },
+ {
+  "id": 125,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the air test for DWV, and why must plugs be braced?",
+  "back": "The air test plugs both ends and pressurizes the system, commonly to about 35 kPa or 5 psi, and the pressure must hold. Plugs are braced because air pressure can blow them out and injure someone."
+ },
+ {
+  "id": 126,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What does a gurgling fixture usually mean?",
+  "back": "Gurgling and trap bubbling when another fixture flushes are venting symptoms. The vent serving the branch is usually blocked or missing, so air is pulled through the trap."
+ },
+ {
+  "id": 127,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What causes a sewage smell at an unused floor drain?",
+  "back": "The floor drain trap seal has evaporated and let sewer gas in. The fix is to fill the trap and, for a rarely used drain, install a trap seal primer."
+ },
+ {
+  "id": 128,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a trap seal primer?",
+  "back": "A trap seal primer adds water automatically to a trap that sits unused, so the seal does not dry out. It is connected to the water supply."
+ },
+ {
+  "id": 129,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the minimum size of a building sewer that serves water closets?",
+  "back": "A building sewer that receives water closet discharge is commonly a minimum of 4 in, or 100 mm. A sewer serving only smaller fixtures may be 3 in in some cases."
+ },
+ {
+  "id": 130,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a sewer pipe supported in a trench?",
+  "back": "The pipe is laid on a prepared smooth bed, and bedding is compacted around the pipe to at least the springline. This prevents sags and protects the joints."
+ },
+ {
+  "id": 131,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the difference between infiltration and exfiltration?",
+  "back": "Infiltration is groundwater entering the sewer through leaks, and exfiltration is sewage leaving the pipe. Both are defects and both are caught by the water or air test."
+ },
+ {
+  "id": 132,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a maintenance hole bench?",
+  "back": "The bench is the shaped channel inside the base of a maintenance hole that carries the flow and lets a worker stand beside it. The inverts are set through the bench."
+ },
+ {
+  "id": 133,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a catch basin for?",
+  "back": "A catch basin collects surface water through a grate, and its sump traps grit and debris before the water enters the storm sewer. The outlet is above the sump."
+ },
+ {
+  "id": 134,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a thrust block for?",
+  "back": "A thrust block is concrete placed against a fitting or change of direction to resist the pressure that pushes the joint apart. It transfers the force to undisturbed soil."
+ },
+ {
+  "id": 135,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What are the three parts of a classic septic system?",
+  "back": "A septic tank, a distribution box, and a leaching bed. The tank settles solids, the box splits the flow, and the bed spreads the effluent into the soil for treatment."
+ },
+ {
+  "id": 136,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What information sizes a septic system?",
+  "back": "The daily flow and the drainage characteristics of the soil, found with a percolation test. The tank is sized for the flow and the bed for the soil's loading rate."
+ },
+ {
+  "id": 137,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a septic tank tested for watertightness?",
+  "back": "The tank is filled with water and the level is held while watching for leaks. It is tested before backfill because a leaking tank contaminates the yard."
+ },
+ {
+  "id": 138,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What does effluent surfacing over a bed mean?",
+  "back": "The bed is overloaded or a downstream path is blocked. The plumber checks the tank level, outlet baffle, and distribution box before digging up the bed."
+ },
+ {
+  "id": 139,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is an aerobic treatment unit?",
+  "back": "An aerobic treatment unit uses air and bacteria to treat waste more completely before it reaches the bed. It needs power and regular maintenance."
+ },
+ {
+  "id": 140,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the fix for roots growing into a sewer?",
+  "back": "The roots are removed and the damaged section is repaired or replaced, because cutting the roots alone lets them return. The source of entry is fixed."
+ },
+ {
+  "id": 141,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a sewer inspected after cleaning?",
+  "back": "A camera is run through the pipe to record cracks, offsets, and bellies. The report tells the owner what is wrong and what will fail next."
+ },
+ {
+  "id": 142,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is deflection testing?",
+  "back": "A rigid mandrel is pulled through flexible pipe to confirm it has not been squeezed out of round by backfill. A deflected pipe restricts flow and can crack."
+ },
+ {
+  "id": 143,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the minimum drain size for a bathtub?",
+  "back": "A bathtub drain is commonly a minimum of 1 1/2 in, and a lavatory drain is a minimum of 1 1/4 in. Each fixture has its own code minimum."
+ },
+ {
+  "id": 144,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why must a vent rise above the flood level rim?",
+  "back": "If the vent rises above the flood level rim of the fixture, a backed-up system cannot fill the vent with waste. The rim is the reference for the vent height."
+ },
+ {
+  "id": 145,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a vent header?",
+  "back": "A vent header is a horizontal pipe that collects the vents from several fixtures and carries them to the stack vent or vent stack. Its size comes from the code tables."
+ },
+ {
+  "id": 146,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of an underground DWV stub cap?",
+  "back": "Stub ends are capped or plugged during construction so debris cannot enter the drainage system. The caps are removed when the fixtures are connected."
+ },
+ {
+  "id": 147,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the difference between a soil pipe and a waste pipe?",
+  "back": "A soil pipe carries the discharge of water closets, while a waste pipe carries discharge that does not contain human waste. Both are part of the drainage system."
+ },
+ {
+  "id": 148,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why is a level sewer wrong?",
+  "back": "A level sewer cannot move solids by gravity, and waste drops out and plugs the line. The pipe must slope in the direction of flow."
+ },
+ {
+  "id": 149,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a P-trap and why is an S-trap avoided?",
+  "back": "A P-trap holds a water seal and vents properly, while an S-trap can siphon its own seal. The S-trap is prohibited in most modern installations."
+ },
+ {
+  "id": 150,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a sanitary sewer versus a storm sewer?",
+  "back": "A sanitary sewer carries sewage from fixtures, while a storm sewer carries rainwater and surface runoff. The two are kept separate in modern systems."
+ },
+ {
+  "id": 151,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is above-ground DWV pipe supported?",
+  "back": "The pipe is supported at the spacing the code requires so horizontal runs keep their slope and vertical stacks are held at each floor. Supports must not crush plastic pipe."
+ },
+ {
+  "id": 152,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a relief vent for?",
+  "back": "A relief vent is added downstream of a heavily loaded circuit vent so the lower traps are protected from pressure changes. It balances the venting of the battery."
+ },
+ {
+  "id": 153,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a distribution box in a septic system?",
+  "back": "The distribution box splits the effluent flow evenly among the trenches of the leaching bed. It must be level so every trench gets a fair share."
+ },
+ {
+  "id": 154,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the difference between a water test and an air test?",
+  "back": "A water test fills the pipe and watches the level, while an air test pressurizes the pipe and watches the pressure. Both prove the joints are watertight."
+ },
+ {
+  "id": 155,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of the cleanout at the base of a stack?",
+  "back": "It gives a drain cleaner access to the point where stoppages collect at the base of the stack. Without it, the stack cannot be cleared easily."
+ },
+ {
+  "id": 156,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why are sharp 90 degree elbows avoided in drainage?",
+  "back": "Sharp turns create a spot where solids drop out and a stoppage forms. Long sweeps and wyes are used instead to keep the flow moving."
+ },
+ {
+  "id": 157,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the minimum sewer size in general practice?",
+  "back": "A building sewer is commonly a minimum of 4 in where water closets discharge, and 3 in where only smaller fixtures are served. The fixture unit load may require a larger size."
+ },
+ {
+  "id": 158,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a trap weir?",
+  "back": "The weir is the point where the trap outlet begins to fall away. The trap arm length is measured from the weir to the vent."
+ },
+ {
+  "id": 159,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a sewer grade calculated?",
+  "back": "The drop equals the run times the grade. For example, 40 ft at 1/8 in per foot gives 5 in of drop."
+ },
+ {
+  "id": 160,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of an outlet baffle in a septic tank?",
+  "back": "The outlet baffle holds back scum and lets only the clear middle liquid, the effluent, pass to the distribution box. A broken baffle lets scum into the bed."
+ },
+ {
+  "id": 161,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a holding tank used for?",
+  "back": "A holding tank stores waste until it is pumped out, used where the soil cannot accept any discharge. It has no leaching bed."
+ },
+ {
+  "id": 162,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How often is a septic tank pumped?",
+  "back": "A septic tank is pumped on a schedule set by use, usually every few years. The schedule depends on the tank size, occupancy, and the volume of solids."
+ },
+ {
+  "id": 163,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of the vent pipe on a building?",
+  "back": "The vent pipe admits air to the drainage system and protects the trap seals. It also lets the drainage pipe flow at the size it was designed for."
+ },
+ {
+  "id": 164,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What happens if a drainage pipe is sized too small?",
+  "back": "An undersized pipe cannot carry the fixture unit load and backs up or runs too full to vent. The size is matched to the load from the code table."
+ },
+ {
+  "id": 165,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a cleanout plug?",
+  "back": "A cleanout plug is the removable cap on a cleanout fitting. It is removed so a drain auger can enter the pipe to clear a stoppage."
+ },
+ {
+  "id": 166,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What does the smoke test reveal that the water test cannot?",
+  "back": "The smoke test shows which vent connections are open and complete and reveals a dry trap. The water test only proves the pipe holds water."
+ },
+ {
+  "id": 167,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of a cleanout at a change of direction?",
+  "back": "A change of direction greater than about 45 degrees can collect a stoppage, so a cleanout there gives access to clear it. It must remain accessible."
+ },
+ {
+  "id": 168,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a sewer cleaned?",
+  "back": "Stoppages are cleared with drain augers, snakes, or high-pressure jetting, depending on the cause. Roots and dropped objects are cleared mechanically, and grease is flushed."
+ },
+ {
+  "id": 169,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a septic tank scum layer?",
+  "back": "The scum layer is the lighter material, such as grease, that floats on top of the tank. The clear effluent flows out between the scum and the settled sludge."
+ },
+ {
+  "id": 170,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the minimum drain size for a lavatory?",
+  "back": "A lavatory drain is a minimum of 1 1/4 in. The trap arm length is also limited for that size to prevent siphoning."
+ },
+ {
+  "id": 171,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why is a sewer not backfilled with rocks against the pipe?",
+  "back": "Rocks can damage the pipe and create point loads that sag or crack it. The pipe is bedded in clean material and covered carefully."
+ },
+ {
+  "id": 172,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a stack vent's minimum size?",
+  "back": "A stack vent is commonly at least one half the size of the stack it protects, so a 4 in stack takes a 2 in stack vent minimum."
+ },
+ {
+  "id": 173,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a drainage fixture unit?",
+  "back": "A drainage fixture unit is a number assigned to each fixture that represents its drain load. The totals along a branch or stack are matched to a pipe size in the code."
+ },
+ {
+  "id": 174,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why is a water closet given a larger fixture unit value than a lavatory?",
+  "back": "A water closet discharges a larger, faster load, so it carries a larger drainage fixture unit value. The load, not the fixture count, sizes the pipe."
+ },
+ {
+  "id": 175,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of the invert of a maintenance hole?",
+  "back": "The invert is the bottom of the pipe channel through the maintenance hole. It is set so the incoming flow drops gently to the outgoing invert."
+ },
+ {
+  "id": 176,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a drop connection in a maintenance hole?",
+  "back": "A drop connection carries an incoming pipe down the wall to the bench so the flow enters at the invert without splashing. It is used when the incoming pipe is high."
+ },
+ {
+  "id": 177,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why is a sewer joint made watertight?",
+  "back": "A watertight joint stops groundwater from entering and sewage from leaving. Both infiltration and exfiltration overload the system or contaminate the soil."
+ },
+ {
+  "id": 178,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of the building drain versus the building sewer?",
+  "back": "The building drain collects waste inside the building at the lowest level, and the building sewer carries it from the building to the public sewer or disposal point."
+ },
+ {
+  "id": 179,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is an underground DWV system tested before the slab?",
+  "back": "The system is water or air tested and inspected before the concrete is poured. Once the slab is poured, the pipe is no longer accessible."
+ },
+ {
+  "id": 180,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of a vent in a wet vented bathroom group?",
+  "back": "The vent protects the trap seals while the wet vent pipe drains other fixtures. The wet vent is sized so the water flow does not siphon the traps."
+ },
+ {
+  "id": 181,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why is a lavatory trap arm limited in length?",
+  "back": "A trap arm that is too long siphons the trap when the fixture drains. The code limits the length by pipe size, so the vent is kept close to the trap."
+ },
+ {
+  "id": 182,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a sanitary building drain?",
+  "back": "The sanitary building drain is the lowest horizontal pipe inside the building that collects sewage and carries it to the building sewer. It is sloped and vented."
+ },
+ {
+  "id": 183,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of a roof flashing on a stack vent?",
+  "back": "The roof flashing seals the penetration so rain cannot enter around the stack vent. The vent extends above the roof and is flashed and sealed."
+ },
+ {
+  "id": 184,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a pipe recess in a sewer trench?",
+  "back": "A pipe recess is a small channel in the trench bottom so the pipe rests on undisturbed soil at the invert while the joints hang free to be made."
+ },
+ {
+  "id": 185,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of compacting backfill in layers?",
+  "back": "Compacting in layers prevents the backfill from settling and the surface from sinking. It also protects the pipe from crushing."
+ },
+ {
+  "id": 186,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a drain auger, or snake?",
+  "back": "A drain auger is a flexible cable rotated through a drain to break up or retrieve a blockage. A closet auger is shaped to pass through a water closet trap without damaging it."
+ },
+ {
+  "id": 187,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why are chemical drain cleaners used with care?",
+  "back": "Chemical cleaners can damage pipes and are dangerous to the plumber and occupants. Mechanical clearing is preferred and the cause is found afterward."
+ },
+ {
+  "id": 188,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a septic tank sludge layer?",
+  "back": "The sludge layer is the settled solids at the bottom of the septic tank. It is pumped out on schedule so it does not build into the bed."
+ },
+ {
+  "id": 189,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of an effluent pump?",
+  "back": "An effluent pump moves effluent from the tank to a bed that is higher than the tank or delivers it in controlled doses. It has an alarm for high level."
+ },
+ {
+  "id": 190,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a leaching bed?",
+  "back": "A leaching bed, or drain field, spreads effluent into the soil where bacteria and soil particles treat it before it reaches groundwater."
+ },
+ {
+  "id": 191,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a septic system setback from a well?",
+  "back": "The tank and bed are set back from wells, property lines, and water bodies by the distances the authority requires. The setbacks protect the water supply."
+ },
+ {
+  "id": 192,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the minimum grade of a sewer?",
+  "back": "The sewer is sloped enough to keep solids moving, commonly about 2 percent for smaller pipe and 1 percent for larger pipe. The code edition sets the exact minimum."
+ },
+ {
+  "id": 193,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why is a sewer not laid with a sharp 90 degree turn?",
+  "back": "A sharp turn drops solids and creates a stoppage. Sweeps and wyes are used for changes of direction in sewers."
+ },
+ {
+  "id": 194,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of a catch basin sump?",
+  "back": "The sump traps grit and debris so it does not enter the storm sewer. The outlet is above the sump so only clear water discharges."
+ },
+ {
+  "id": 195,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What does the air test pressure commonly start at?",
+  "back": "A drainage air test commonly starts at about 35 kPa, or 5 psi, and the pressure must hold for the test time. The code edition sets the exact value."
+ },
+ {
+  "id": 196,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a vent stack?",
+  "back": "A vent stack is a vertical vent that serves the lower portion of a drainage stack. It carries air, not waste, and its size comes from the code tables."
+ },
+ {
+  "id": 197,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why is a lavatory trap deeper than 50 mm not required?",
+  "back": "A deeper trap is not required because the code minimum is 50 mm and a proper vent, not extra trap depth, is the primary protection against siphoning. A deeper seal can delay evaporation, but the code only requires the 50 mm minimum."
+ },
+ {
+  "id": 198,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a sewer cleanout interval?",
+  "back": "The code sets the maximum distance between cleanouts on a sewer so every part of the pipe can be reached. The interval varies with the pipe size."
+ },
+ {
+  "id": 199,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of a sewer inspection camera?",
+  "back": "The camera records the pipe condition so cracks, offsets, and bellies can be seen instead of guessed. The report guides repair decisions."
+ },
+ {
+  "id": 200,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a sewer repaired when roots are the cause?",
+  "back": "The roots are removed and the cracked or offset section is repaired or replaced. Trenchless methods can repair long runs without digging."
+ },
+ {
+  "id": 201,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of a relief vent on a circuit vent?",
+  "back": "The circuit vent protects the traps downstream of its connection, and the relief vent protects the traps at the downstream end of the branch. Together they keep the battery vented."
+ },
+ {
+  "id": 202,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a stack vent's job above the roof?",
+  "back": "Above the roof, the stack vent carries only air and lets the system breathe. It must extend above the roof and be flashed and sealed."
+ },
+ {
+  "id": 203,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why is an S-trap a siphon risk?",
+  "back": "An S-trap's shape lets the draining water siphon its own seal because it is not properly vented. A P-trap with a vent holds the seal."
+ },
+ {
+  "id": 204,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the function of the water closet's integral trap?",
+  "back": "The water closet trap is built into the china, so the closet does not need a separate trap. It holds the seal and connects to the 3 in drain."
+ },
+ {
+  "id": 205,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What does a septic tank treat before the bed?",
+  "back": "The tank settles solids as sludge and floats grease as scum, and the clear effluent flows out to the bed. The bed then treats the effluent in the soil."
+ },
+ {
+  "id": 206,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a soil stack sized?",
+  "back": "The drainage fixture units served by the stack are totalled and matched to the code table. The stack must be large enough for the largest load it carries."
+ },
+ {
+  "id": 207,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of the trench bottom preparation?",
+  "back": "The trench bottom is prepared so the pipe has even support and the joints hang free. Poor preparation causes bellies and joint failure."
+ },
+ {
+  "id": 208,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a drainage fixture unit table used for?",
+  "back": "The table matches the total fixture units to the required pipe size for branches, stacks, and sewers. The size is never guessed."
+ },
+ {
+  "id": 209,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the difference between a sanitary tee and a wye?",
+  "back": "A sanitary tee drops the side inlet into the run in a tight sweep, while a wye joins a branch at a shallow angle. The wye is used for smoother changes of direction."
+ },
+ {
+  "id": 210,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a DWV system protected from freezing?",
+  "back": "Pipe in unheated spaces is insulated or otherwise protected so it does not freeze. A frozen drainage pipe blocks and can split."
+ },
+ {
+  "id": 211,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of a building trap?",
+  "back": "A building trap, where required, seals the building drainage from the public sewer gases. Many modern codes instead rely on individual fixture traps and vents."
+ },
+ {
+  "id": 212,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a sewer lateral?",
+  "back": "A sewer lateral is the pipe from the building to the public sewer, also called the building sewer. It is owned and maintained from the building to the property line."
+ },
+ {
+  "id": 213,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a test tee used for?",
+  "back": "A test tee gives access to test the drainage system with water or air and to insert a test plug. It is capped after the test."
+ },
+ {
+  "id": 214,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why is a vent sized by the drain it protects?",
+  "back": "The vent must admit enough air to protect the trap seals against the flow in the drain it serves. The size depends on the drain size and fixture units."
+ },
+ {
+  "id": 215,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of an air gap in a DWV context?",
+  "back": "An air gap on a drainage connection, such as a dishwasher or water treatment drain, breaks the siphon path. It is a physical separation, not a mechanical device."
+ },
+ {
+  "id": 216,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a septic tank inlet baffle?",
+  "back": "The inlet baffle directs the incoming flow downward and calms it so solids settle instead of disturbing the scum. It also protects the inlet pipe."
+ },
+ {
+  "id": 217,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a sewage treatment system serviced?",
+  "back": "The tank is pumped on schedule, and the tank, baffles, distribution box, pumps, and alarms are inspected. The cause is found before the bed is dug up."
+ },
+ {
+  "id": 218,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a plumbing cleanout fitting?",
+  "back": "A cleanout fitting is a branch with a removable plug that gives a drain auger access to the pipe. It is installed at bases, changes of direction, and intervals."
+ },
+ {
+  "id": 219,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the minimum vent pipe size?",
+  "back": "A fixture vent is commonly a minimum of 1 1/4 in, and larger vents are sized from the code. The vent size follows the drain it protects."
+ },
+ {
+  "id": 220,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of a floor drain trap?",
+  "back": "The floor drain trap holds water to stop sewer gas, and a trap seal primer keeps it filled when the drain is rarely used."
+ },
+ {
+  "id": 221,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a sewer air test performed?",
+  "back": "Both ends are plugged, air is added to the test pressure, commonly about 35 kPa, and the pressure must hold. The plugs are braced so they cannot blow out."
+ },
+ {
+  "id": 222,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What does a sewer smoke test reveal?",
+  "back": "A smoke test reveals leaks and broken connections and shows which vent is open. Smoke escaping through a dry trap points at that fixture."
+ },
+ {
+  "id": 223,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a sewage ejector?",
+  "back": "A sewage ejector is a pump that lifts sewage from a basement below the sewer to the sewer line above. It has a basin, float controls, and an alarm."
+ },
+ {
+  "id": 224,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of a vent on a sewage ejector basin?",
+  "back": "The ejector basin is vented so the trap seals on its discharge are protected and the basin pressure is balanced. The vent carries no sewage."
+ },
+ {
+  "id": 225,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the drainage fixture unit value of a water closet?",
+  "back": "The exact value comes from the code table, but a water closet carries the largest load of the common fixtures. It is used to size its drain, branch, and stack."
+ },
+ {
+  "id": 226,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a sanitary building sewer?",
+  "back": "The sanitary building sewer carries sewage from the building drain to the public sewer or septic system. It is sloped, watertight, and bedded correctly."
+ },
+ {
+  "id": 227,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why is a septic bed levelled carefully?",
+  "back": "A level distribution box and bed spread the effluent evenly so no trench is overloaded. An unlevel bed can surface in one spot."
+ },
+ {
+  "id": 228,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a plumbing trap seal?",
+  "back": "The trap seal is the water held in a trap that stops sewer gas from entering the room. Its minimum depth is 50 mm."
+ },
+ {
+  "id": 229,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of a cleanout on a building sewer?",
+  "back": "The cleanout on the building sewer gives access to clear a stoppage at the building wall or along the line. It is required where the sewer is accessible."
+ },
+ {
+  "id": 230,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a wet vent minimum size for a water closet?",
+  "back": "A wet vent serving a water closet is commonly a minimum of 2 in. The water closet connection must also meet the code distance requirements."
+ },
+ {
+  "id": 231,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "How is a septic tank inlet protected?",
+  "back": "The inlet baffle or tee directs the flow down and calms it so the scum is not disturbed. It also prevents the inlet pipe from clogging."
+ },
+ {
+  "id": 232,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of a sewer cleanout plug?",
+  "back": "The cleanout plug seals the cleanout opening and is removed when the pipe needs cleaning. It must be accessible."
+ },
+ {
+  "id": 233,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a soil stack?",
+  "back": "A soil stack is a vertical pipe that carries the discharge of water closets and other fixtures to the building drain. Its upper portion becomes the stack vent."
+ },
+ {
+  "id": 234,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "Why is a sewer tested before backfill?",
+  "back": "Testing before backfill finds leaks while the pipe is still exposed. Fixing a leak after backfill is an excavation."
+ },
+ {
+  "id": 235,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is the purpose of a distribution box?",
+  "back": "The distribution box splits the septic effluent evenly among the bed trenches. It must be set level."
+ },
+ {
+  "id": 236,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What is a drainage trap?",
+  "back": "A drainage trap is the curved section of pipe under a fixture that holds water and stops sewer gas. Every fixture that connects to the drainage system has one."
+ },
+ {
+  "id": 237,
+  "domain": "installs_tests_and_services_sewers_sewage_treatment_and_dwv_systems",
+  "front": "What does a sewer grade of 2 percent mean?",
+  "back": "A 2 percent grade is a drop of about 1/4 in per foot, the common minimum for smaller drainage pipe. It keeps solids moving without leaving water behind."
+ },
+ {
+  "id": 238,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is the water service?",
+  "back": "The water service is the pipe that brings potable water from the public main to the building. It starts at the corporation stop and passes through the curb stop and meter."
+ },
+ {
+  "id": 239,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is the correct order of components on a water service?",
+  "back": "From the main toward the building: corporation stop, curb stop, meter, then the building shut-off valve. The curb stop is at the property line."
+ },
+ {
+  "id": 240,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Which copper type is used for a buried water service?",
+  "back": "Copper Type K has the thickest wall and is used underground where the pipe must resist crushing. HDPE is also common for services because it is flexible and fusion-joined."
+ },
+ {
+  "id": 241,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "How is a water service sized?",
+  "back": "The supply fixture units are totalled and matched to the size table, then checked for the available pressure and the developed length to the most remote fixture."
+ },
+ {
+  "id": 242,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Why is a water service buried below the frost line?",
+  "back": "Burial below frost keeps the water from freezing, which would split the pipe. The service is also laid with a slope so it can be drained."
+ },
+ {
+  "id": 243,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a thrust block for?",
+  "back": "A thrust block is concrete placed against a fitting or change of direction to resist the water pressure that pushes the joint apart. It transfers the force to undisturbed soil."
+ },
+ {
+  "id": 244,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a pressure reducing valve, and when is it installed?",
+  "back": "A PRV reduces high street pressure to the building design pressure, commonly installed where the supply exceeds about 550 kPa or 80 psi. It is set at the service entry."
+ },
+ {
+  "id": 245,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Why is an expansion tank installed on a closed system?",
+  "back": "A closed system, with a backflow preventer or PRV, has nowhere for heated water to expand, so the expansion tank absorbs the expansion and prevents a pressure rise."
+ },
+ {
+  "id": 246,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is the most reliable backflow protection?",
+  "back": "An air gap, the physical space between the outlet and the flood level rim, is the most reliable because it has no moving parts. It cannot fail mechanically."
+ },
+ {
+  "id": 247,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is an atmospheric vacuum breaker used for?",
+  "back": "An AVB is used on outlets such as hose bibs, installed above the highest downstream outlet, to break a siphon. It cannot be under continuous pressure."
+ },
+ {
+  "id": 248,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a double check valve assembly?",
+  "back": "A DCVA has two check valves and test cocks, and it protects against back pressure and back siphonage for lower hazards. It is tested periodically."
+ },
+ {
+  "id": 249,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a reduced pressure principle assembly?",
+  "back": "An RP assembly has two check valves and a relief valve between them. If the second check leaks, the relief valve discharges, so contamination cannot flow back. It is used for high hazards."
+ },
+ {
+  "id": 250,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Which backflow device protects a hose bib?",
+  "back": "An atmospheric vacuum breaker above the hose bib outlet protects it, because a submerged hose can siphon back into the supply."
+ },
+ {
+  "id": 251,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a cross-connection?",
+  "back": "A cross-connection is any connection between the potable water system and a source of contamination. Backflow is the flow of contamination into the potable supply."
+ },
+ {
+  "id": 252,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What are the two kinds of backflow?",
+  "back": "Back siphonage, where a pressure drop sucks contaminated water back, and back pressure, where the contaminated system pushes water into the supply. Both are protected against."
+ },
+ {
+  "id": 253,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is the difference between trunk and branch and manifold distribution?",
+  "back": "Trunk and branch runs one main with branches to fixtures, while a manifold feeds a dedicated line to each fixture with an individual shut-off at the manifold."
+ },
+ {
+  "id": 254,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Where is a shut-off valve required for every fixture?",
+  "back": "Every fixture and appliance needs its own shut-off valve on its supply line so it can be isolated without draining the building."
+ },
+ {
+  "id": 255,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water hammer arrestor for?",
+  "back": "A water hammer arrestor absorbs the pressure surge when a fast-closing valve, such as a washing machine valve, shuts off. It stops the banging and protects the pipe."
+ },
+ {
+  "id": 256,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What causes water hammer?",
+  "back": "A fast-closing valve slams a moving column of water to a stop, creating a pressure spike. Loose pipe supports can make the banging worse."
+ },
+ {
+  "id": 257,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a gate valve used for?",
+  "back": "A gate valve is a full-open or full-closed valve used for isolation, not throttling. A globe valve is used where flow must be throttled."
+ },
+ {
+  "id": 258,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a ball valve?",
+  "back": "A ball valve gives a quick quarter-turn shut-off and is the standard service and fixture valve. It is full port when fully open."
+ },
+ {
+  "id": 259,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a check valve for?",
+  "back": "A check valve allows flow in one direction only and stops water from flowing backward. It must be installed in the correct orientation."
+ },
+ {
+  "id": 260,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "How is a new water system disinfected?",
+  "back": "After flushing, the system is filled with a chlorine solution, held for the required time, and flushed completely. Disinfection is required before a new system is put into service."
+ },
+ {
+  "id": 261,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "At what pressure is a water system tested?",
+  "back": "The system is tested to one and a half times the working pressure, or the code minimum, and the pressure must hold. Fixtures are isolated for the test."
+ },
+ {
+  "id": 262,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a submersible pump used for?",
+  "back": "A submersible pump sits inside the well below the water level and pushes water up. It is used for deep wells."
+ },
+ {
+  "id": 263,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a jet pump used for?",
+  "back": "A jet pump sits above ground and uses suction to lift water, suitable for shallow wells. It loses efficiency as the depth increases."
+ },
+ {
+  "id": 264,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What do the two pressure switch settings control?",
+  "back": "The cut-in starts the pump and the cut-out stops it, commonly 30/50 or 40/60 psi. The switch controls the pump cycle."
+ },
+ {
+  "id": 265,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a waterlogged pressure tank?",
+  "back": "A waterlogged tank has lost its air charge, so the pump cycles rapidly. The air charge is restored or the tank is replaced."
+ },
+ {
+  "id": 266,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What does a well pressure tank pre-charge match?",
+  "back": "The air pre-charge is set about 2 psi below the pump cut-in pressure. It is measured with the tank drained and isolated."
+ },
+ {
+  "id": 267,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a hot water recirculation loop for?",
+  "back": "The return line and pump keep hot water moving so it is available quickly at fixtures. It saves water that would run while waiting."
+ },
+ {
+  "id": 268,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a curb stop?",
+  "back": "A curb stop is the shut-off valve at the property line that lets the authority shut the service off from outside. It is protected by a curb box."
+ },
+ {
+  "id": 269,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a corporation stop?",
+  "back": "A corporation stop is the connection valve at the water main itself. It is the first component on the service."
+ },
+ {
+  "id": 270,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Why is a service tested before backfill?",
+  "back": "The service is pressure tested before the trench is closed so a leak can be found and fixed while the pipe is exposed."
+ },
+ {
+  "id": 271,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is the developed length in water sizing?",
+  "back": "The developed length is the total length of pipe the water must travel to the most remote fixture. Longer runs need larger pipe to overcome friction."
+ },
+ {
+  "id": 272,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is the code maximum interior water pressure?",
+  "back": "The code maximum is commonly about 550 kPa, or 80 psi. A PRV is installed where the street pressure is higher."
+ },
+ {
+  "id": 273,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What protects an irrigation system connected to potable water?",
+  "back": "A backflow preventer matched to the hazard, often an RP assembly where fertilizer is injected, protects the potable supply from the irrigation system."
+ },
+ {
+  "id": 274,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a manifold shut-off used for?",
+  "back": "A manifold shut-off isolates one fixture line without affecting the others. It is the individual valve at a PEX manifold."
+ },
+ {
+  "id": 275,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water meter's place on the service?",
+  "back": "The meter is installed between the curb stop and the building shut-off, at the point the authority requires. It records consumption."
+ },
+ {
+  "id": 276,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Why is a service laid with a continuous slope?",
+  "back": "The slope lets the service be drained if it must be taken out of service. It also helps air escape during filling."
+ },
+ {
+  "id": 277,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is the purpose of a booster pump?",
+  "back": "A booster pump raises water pressure where the supply is too low. It is sized and controlled so it does not create excess pressure when idle."
+ },
+ {
+  "id": 278,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a pressure tank's air cushion for?",
+  "back": "The air cushion stores energy and pressure so the pump does not start every time a tap opens. A bladder separates the air from the water."
+ },
+ {
+  "id": 279,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "How is a new water service tested for leaks?",
+  "back": "The water service is filled and pressure tested above its working pressure to prove the pipe and joints are watertight, so water cannot leak out."
+ },
+ {
+  "id": 280,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a dielectric union used for?",
+  "back": "A dielectric union joins copper to galvanized steel and separates the metals so galvanic corrosion does not eat the steel."
+ },
+ {
+  "id": 281,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Why is a PRV adjustment set at installation?",
+  "back": "The PRV is set to the required building pressure at installation. A failed PRV passes full street pressure and must be repaired or replaced."
+ },
+ {
+  "id": 282,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water hammer arrestor installed on?",
+  "back": "A water hammer arrestor is installed on the supply to fast-closing valves, such as washing machines and dishwashers. It absorbs the closing surge."
+ },
+ {
+  "id": 283,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is an air gap's required size?",
+  "back": "An air gap is large enough that water cannot bridge it, usually at least twice the outlet diameter above the flood level rim. The code sets the exact minimum."
+ },
+ {
+  "id": 284,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a backflow preventer test cock for?",
+  "back": "Test cocks let a certified tester connect gauges and verify the backflow preventer is working. The device is tested on schedule."
+ },
+ {
+  "id": 285,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a supply fixture unit?",
+  "back": "A supply fixture unit is a number that represents how much water a fixture can draw. Totals are matched to a pipe size, adjusted for pressure and length."
+ },
+ {
+  "id": 286,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is the purpose of a building shut-off valve?",
+  "back": "The building shut-off isolates the building from the service so the whole building can be shut off without closing the street."
+ },
+ {
+  "id": 287,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Why is a check valve installed on a well pump?",
+  "back": "The check valve keeps water from draining back into the well when the pump stops, so the pump stays primed and the pressure holds."
+ },
+ {
+  "id": 288,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water service sleeve for?",
+  "back": "The sleeve passes the service through the wall or floor and is sealed so water and soil cannot follow the pipe in."
+ },
+ {
+  "id": 289,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "How is a water service protected from crushing?",
+  "back": "The service is bedded in clean material and backfilled carefully, and Type K copper or HDPE is chosen where strength is needed."
+ },
+ {
+  "id": 290,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a pressure gauge used for on a water system?",
+  "back": "A pressure gauge reads the system pressure for testing and troubleshooting. It confirms the PRV setting and the test pressure."
+ },
+ {
+  "id": 291,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is the purpose of flushing a new water system?",
+  "back": "Flushing removes debris that entered the pipe during installation before the system is disinfected and placed in service."
+ },
+ {
+  "id": 292,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water softener sized from?",
+  "back": "The softener is sized from the water hardness in grains per gallon and the daily use, which gives the grains removed per day."
+ },
+ {
+  "id": 293,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water service curb box?",
+  "back": "A curb box protects the curb stop at grade and gives the authority access to shut the service off from outside."
+ },
+ {
+  "id": 294,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What does a leaking PRV cause?",
+  "back": "A failed PRV lets full street pressure into the building, which can blow out fixture connections. The PRV is repaired or replaced."
+ },
+ {
+  "id": 295,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water distribution riser?",
+  "back": "A riser is the vertical pipe that carries water up through the building to each floor. It is sized for the fixture load and developed length."
+ },
+ {
+  "id": 296,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Why is a hot water line insulated?",
+  "back": "Insulation reduces heat loss so hot water stays hot and arrives faster. Cold lines are insulated to prevent condensation and freezing."
+ },
+ {
+  "id": 297,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is the purpose of a vacuum breaker on a fixture?",
+  "back": "A vacuum breaker, such as an AVB, opens to the atmosphere when pressure drops so contaminated water cannot be siphoned back into the supply."
+ },
+ {
+  "id": 298,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a pressure switch's cut-in and cut-out?",
+  "back": "The cut-in is the pressure that starts the pump, and the cut-out is the pressure that stops it. A common setting is 30/50 or 40/60 psi."
+ },
+ {
+  "id": 299,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Why is a water service not connected to the sewer trench?",
+  "back": "Potable water and sewage must be separated with the required clearance so a leaking sewer cannot contaminate the water service."
+ },
+ {
+  "id": 300,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a fixture supply stop?",
+  "back": "A fixture supply stop is the small shut-off valve on the supply to a fixture or appliance. It lets the fixture be isolated for service."
+ },
+ {
+  "id": 301,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water meter pit?",
+  "back": "A meter pit is a buried chamber that holds the water meter and shut-offs where the meter is installed outside the building."
+ },
+ {
+  "id": 302,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "How is a well pump protected from short cycling?",
+  "back": "The pressure tank provides the buffer so the pump does not start on every small draw. A waterlogged tank causes rapid cycling."
+ },
+ {
+  "id": 303,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a pressure tank bladder?",
+  "back": "The bladder separates the water from the pre-charged air cushion inside the tank. A broken bladder makes the tank waterlogged."
+ },
+ {
+  "id": 304,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a backflow preventer on a boiler feed?",
+  "back": "A backflow preventer matched to the hazard protects the potable supply from the boiler water. The device is tested on schedule."
+ },
+ {
+  "id": 305,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is the purpose of a water hammer arrestor's air chamber?",
+  "back": "The air or piston chamber absorbs the shock of the fast-closing valve, cushioning the pressure spike before it bangs the pipe."
+ },
+ {
+  "id": 306,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water service corporation stop?",
+  "back": "The corporation stop is the valve at the water main where the service begins. It allows the main to be shut off for the service."
+ },
+ {
+  "id": 307,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Why is a water system tested at one and a half times working pressure?",
+  "back": "The higher test pressure proves the joints will hold under surges and margin. It is held for the test period."
+ },
+ {
+  "id": 308,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a manifold in PEX distribution?",
+  "back": "A manifold is the central fitting with individual shut-offs that feeds a dedicated line to each fixture. It makes servicing one fixture easy."
+ },
+ {
+  "id": 309,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a cross-connection control program?",
+  "back": "A program that identifies cross-connections and requires the right backflow preventer, tested on schedule, for each hazard level."
+ },
+ {
+  "id": 310,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water service's frost protection?",
+  "back": "The service is buried below frost and, where it must pass through unheated space, insulated or protected so it cannot freeze."
+ },
+ {
+  "id": 311,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a pressure tank used with a jet pump?",
+  "back": "The pressure tank stores water and maintains pressure so the jet pump does not cycle on every small draw."
+ },
+ {
+  "id": 312,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a relief valve on a water system for?",
+  "back": "A relief valve protects the system from overpressure by opening and discharging. It is not a regulator."
+ },
+ {
+  "id": 313,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is the developed length check after sizing a service?",
+  "back": "After matching fixture units to a size, the developed length and pressure drop are checked so the most remote fixture keeps enough pressure."
+ },
+ {
+  "id": 314,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Why is a service backfilled with clean material?",
+  "back": "Clean backfill protects the pipe from sharp stones and point loads. It is compacted in layers."
+ },
+ {
+  "id": 315,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water distribution loop?",
+  "back": "A loop is a layout that circles the building and returns to the source, reducing pressure differences and dead ends."
+ },
+ {
+  "id": 316,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water service stop box?",
+  "back": "A stop box is the access sleeve over a curb stop so the authority can reach the valve at grade."
+ },
+ {
+  "id": 317,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a pressure-reducing valve's flow arrow for?",
+  "back": "The arrow shows the direction of flow, and the valve must be installed with the arrow pointing toward the building. Reversing it destroys regulation."
+ },
+ {
+  "id": 318,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water closet supply stop?",
+  "back": "The water closet supply stop is the shut-off at the tank or flush valve supply. It isolates the closet without draining the house."
+ },
+ {
+  "id": 319,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a private water system?",
+  "back": "A private water system, usually a well, serves a building with no municipal water. It has a pump, pressure tank, and controls."
+ },
+ {
+  "id": 320,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a well casing?",
+  "back": "The well casing lines the bore and prevents the hole from collapsing and surface water from entering the well."
+ },
+ {
+  "id": 321,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a foot valve?",
+  "back": "A foot valve is a check valve at the bottom of a suction line that keeps water from draining back and losing prime."
+ },
+ {
+  "id": 322,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water treatment system's bypass for?",
+  "back": "A bypass routes water around the treatment unit for outdoor use or service. The softener bypass is a common first check when hard water returns."
+ },
+ {
+  "id": 323,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water service's minimum size?",
+  "back": "The minimum service size depends on the fixture unit load and pressure, commonly not less than 3/4 in for a residence. The code tables set the size."
+ },
+ {
+  "id": 324,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water hammer arrestor's placement?",
+  "back": "It is installed as close as possible to the fast-closing valve, on the supply lines to the machine or fixture causing the surge."
+ },
+ {
+  "id": 325,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "Why is a water service not run with sharp bends?",
+  "back": "Sharp bends add pressure loss and stress the fittings. Sweeps are used, and thrust blocks resist the pressure at changes of direction."
+ },
+ {
+  "id": 326,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water distribution manifold valve?",
+  "back": "The manifold valve is the individual shut-off for one fixture line at the manifold. It isolates that fixture without affecting the others."
+ },
+ {
+  "id": 327,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a pressure tank pre-charge checked against?",
+  "back": "The pre-charge is checked against about 2 psi below the pump cut-in pressure, with the tank drained, so the cushion is correct."
+ },
+ {
+  "id": 328,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a backflow preventer on an irrigation controller?",
+  "back": "The backflow preventer is installed on the irrigation supply, matched to the hazard, and protects the potable water from fertilizer and soil."
+ },
+ {
+  "id": 329,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water service's purpose?",
+  "back": "The water service delivers potable water from the main to the building safely, at the right pressure and below frost."
+ },
+ {
+  "id": 330,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a pressure switch connected to?",
+  "back": "The pressure switch is connected to the pressure tank and controls the pump motor, starting and stopping it at the cut-in and cut-out."
+ },
+ {
+  "id": 331,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water service's meter location?",
+  "back": "The meter is installed where the authority requires, in a meter pit or inside the building, between the curb stop and the building shut-off."
+ },
+ {
+  "id": 332,
+  "domain": "installs_tests_and_services_water_service_and_distribution",
+  "front": "What is a water service's thrust block sized for?",
+  "back": "The thrust block is sized for the pressure, pipe size, and soil so it can resist the force at the change of direction without moving."
+ },
+ {
+  "id": 333,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is the standard water closet rough-in?",
+  "back": "The closet flange is roughed in 12 in from the finished wall to the centre of the outlet. The clearance to each side wall is also set by code."
+ },
+ {
+  "id": 334,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is the T&P relief valve on a water heater?",
+  "back": "The temperature and pressure relief valve opens if the tank temperature or pressure becomes too high. Its discharge pipe runs to a safe location and is never capped."
+ },
+ {
+  "id": 335,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "How is a T&P relief valve tested?",
+  "back": "Lift the test lever briefly so water discharges, then release it to reseat. The discharge proves the valve is not seized."
+ },
+ {
+  "id": 336,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is the common lavatory supply valve height?",
+  "back": "Lavatory supply valves are commonly roughed in at 21 in to the centre above the finished floor. The drain centre is a separate dimension."
+ },
+ {
+  "id": 337,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "How is a water closet set on the flange?",
+  "back": "A wax ring is placed on the flange, the closet is set, and the bolts are tightened evenly so it does not rock or leak."
+ },
+ {
+  "id": 338,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a pressure balancing shower valve?",
+  "back": "A pressure balancing or thermostatic mixing valve keeps the shower temperature steady when hot and cold pressures change, preventing scalds."
+ },
+ {
+  "id": 339,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "How is a dishwasher drain protected?",
+  "back": "The dishwasher drain needs an air gap so sewage cannot be siphoned back into the machine. A high loop alone is not a code-approved substitute in Canada."
+ },
+ {
+  "id": 340,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a laundry standpipe?",
+  "back": "A laundry machine drains into a standpipe, a vertical pipe with a trap that catches the discharge and vents the line."
+ },
+ {
+  "id": 341,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "How is a water softener sized?",
+  "back": "The hardness in grains per gallon is multiplied by the daily use to find the grains removed per day. The softener capacity is matched to that load."
+ },
+ {
+  "id": 342,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What process recharges a water softener?",
+  "back": "Regeneration flushes the resin with brine, a salt solution, to restore its capacity to remove hardness."
+ },
+ {
+  "id": 343,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is the correct order of RO components?",
+  "back": "Feed water flows through the pre-filter, membrane, storage tank, post-filter, and faucet. The pre-filter protects the membrane."
+ },
+ {
+  "id": 344,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What does a carbon filter remove?",
+  "back": "A carbon filter removes chlorine, taste, and odour. It is used whole-house or at a point of use."
+ },
+ {
+  "id": 345,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What does a UV system do?",
+  "back": "A UV system disinfects water by killing bacteria and viruses with an ultraviolet lamp. It only works on clear water, so it follows the filters."
+ },
+ {
+  "id": 346,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What causes a running water closet?",
+  "back": "A flapper that seals poorly, a fill valve set too high, or a chain too tight or loose causes a running toilet. The tank runs until the refill stops."
+ },
+ {
+  "id": 347,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What causes a dripping faucet?",
+  "back": "A worn cartridge, seat, or O-ring causes a dripping faucet. The worn part is replaced."
+ },
+ {
+  "id": 348,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What causes low faucet flow?",
+  "back": "A clogged aerator is the most common cause, followed by a partial shut-off or a supply line problem. The aerator is checked first."
+ },
+ {
+  "id": 349,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What causes a water heater to deliver lukewarm water?",
+  "back": "Sediment in the tank reduces the usable hot water volume, or an element, thermostat, or dip tube has failed. The parts are tested in order."
+ },
+ {
+  "id": 350,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water heater expansion tank for?",
+  "back": "On a closed system, the expansion tank absorbs the expansion of the heated water so the pressure does not rise."
+ },
+ {
+  "id": 351,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "Where is the expansion tank connected?",
+  "back": "The expansion tank is connected to the cold water supply line to the water heater, where it can absorb the thermal expansion."
+ },
+ {
+  "id": 352,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a flush valve water closet's supply requirement?",
+  "back": "A flush valve water closet needs a supply line sized for the flush valve demand and a shut-off at the valve. A small tank supply is not enough."
+ },
+ {
+  "id": 353,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water closet flange?",
+  "back": "The closet flange is the fitting over the drain stub that receives the closet horn and bolts. It is sealed with a wax ring."
+ },
+ {
+  "id": 354,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a fixture trap for?",
+  "back": "A fixture trap holds a water seal that stops sewer gas. Every fixture that connects to drainage has one."
+ },
+ {
+  "id": 355,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a trap seal primer?",
+  "back": "A trap seal primer adds water to a rarely used trap so its seal does not dry out."
+ },
+ {
+  "id": 356,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water softener bypass valve?",
+  "back": "The bypass valve routes hard water around the softener for outdoor taps and service. It is checked first when softened water turns hard."
+ },
+ {
+  "id": 357,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water treatment system sized from?",
+  "back": "The water test results, such as hardness, iron, and pH, plus the daily use, size the treatment system."
+ },
+ {
+  "id": 358,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What does a sediment filter do?",
+  "back": "A sediment filter removes sand, rust, and grit, and it is the pre-filter that protects the systems downstream."
+ },
+ {
+  "id": 359,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water closet wax ring for?",
+  "back": "The wax ring seals between the closet horn and the flange so the connection is watertight."
+ },
+ {
+  "id": 360,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is the minimum water closet clearance to a side wall?",
+  "back": "The code sets a minimum clearance from the centre of the closet to each side wall, commonly about 15 in. The exact value is in the code."
+ },
+ {
+  "id": 361,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a shower pan liner for?",
+  "back": "The pan liner waterproofs the shower base and directs water to the drain so the floor below stays dry."
+ },
+ {
+  "id": 362,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a bathtub waste and overflow?",
+  "back": "The waste and overflow connects the tub drain and the overflow opening so water spilling over the rim drains instead of flooding."
+ },
+ {
+  "id": 363,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a garbage disposal drain size?",
+  "back": "The sink drain is sized for the disposal outlet, and the disposal connects to the sink drain through the trap."
+ },
+ {
+  "id": 364,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water heater T&P discharge requirement?",
+  "back": "The T&P discharge pipe terminates at a floor drain with the end open and visible, and it is never threaded, capped, or connected to the drainage."
+ },
+ {
+  "id": 365,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water heater temperature setting?",
+  "back": "The storage temperature is commonly not above 60 degrees Celsius in many jurisdictions, with scald protection where required."
+ },
+ {
+  "id": 366,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a faucet aerator for?",
+  "back": "An aerator mixes air into the water stream to reduce splashing and save water. A clogged aerator causes low flow."
+ },
+ {
+  "id": 367,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a urinal trap seal issue?",
+  "back": "Urinals in low-use washrooms dry out, so trap seal primers or waterless sealant cartridges keep the seal."
+ },
+ {
+  "id": 368,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a softener resin bed?",
+  "back": "The resin bed holds the beads that exchange sodium for hardness ions. It is recharged during regeneration."
+ },
+ {
+  "id": 369,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a reverse osmosis membrane?",
+  "back": "The RO membrane removes dissolved solids from the water. It must be protected by a pre-filter or it plugs quickly."
+ },
+ {
+  "id": 370,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water heater dip tube?",
+  "back": "The dip tube carries cold water to the bottom of the tank so hot water is drawn from the top. A broken tube delivers lukewarm water."
+ },
+ {
+  "id": 371,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water closet fill valve?",
+  "back": "The fill valve refills the tank after a flush and stops at the water line. A valve set too high causes running."
+ },
+ {
+  "id": 372,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water closet flapper?",
+  "back": "The flapper seals the tank outlet and opens on flush. A leaking flapper causes the tank to refill and run."
+ },
+ {
+  "id": 373,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a fixture shut-off valve for?",
+  "back": "A fixture shut-off isolates one fixture or appliance so it can be serviced without draining the building."
+ },
+ {
+  "id": 374,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water treatment bypass for?",
+  "back": "The bypass routes water around a softener or filter for service or for water that should not be treated."
+ },
+ {
+  "id": 375,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water heater anode rod?",
+  "back": "The anode rod sacrifices itself to protect the steel tank from corrosion. It is inspected and replaced as it wears."
+ },
+ {
+  "id": 376,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a dishwasher air gap?",
+  "back": "The air gap is a countertop fitting on the dishwasher drain that breaks the siphon path so sewage cannot enter the machine."
+ },
+ {
+  "id": 377,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water softener brine tank?",
+  "back": "The brine tank holds the salt solution used to regenerate the resin. The salt level is checked on schedule."
+ },
+ {
+  "id": 378,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a point-of-use filter?",
+  "back": "A point-of-use filter treats water at one outlet, such as a drinking faucet, instead of the whole house."
+ },
+ {
+  "id": 379,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a whole-house filter?",
+  "back": "A whole-house filter treats all the water entering the building, installed on the cold main after the shut-off."
+ },
+ {
+  "id": 380,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water heater combustion air requirement?",
+  "back": "A gas water heater needs enough combustion air so the burner burns completely and does not produce carbon monoxide."
+ },
+ {
+  "id": 381,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a bathtub spout and shower diverter?",
+  "back": "The diverter switches the flow between the tub spout and the shower head. A leaking diverter drips from the shower or spout."
+ },
+ {
+  "id": 382,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a lavatory pop-up?",
+  "back": "A lavatory pop-up is the drain stopper operated by a lift rod. It is adjusted so it seals and releases correctly."
+ },
+ {
+  "id": 383,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water heater relief valve setting?",
+  "back": "The relief valve is set below the tank's pressure and temperature ratings, so it opens before the tank fails."
+ },
+ {
+  "id": 384,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a fixture rough-in?",
+  "back": "The rough-in is the supply and drain location set in the framing before the finish. It follows the fixture manufacturer's dimensions."
+ },
+ {
+  "id": 385,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water treatment hardness unit?",
+  "back": "Hardness is measured in grains per gallon, written gpg. It is used with daily use to size a softener."
+ },
+ {
+  "id": 386,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is an RO storage tank?",
+  "back": "The RO storage tank holds treated water because the membrane produces it slowly. It is followed by a post-filter."
+ },
+ {
+  "id": 387,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water heater draft hood?",
+  "back": "The draft hood connects a gas water heater to the flue and lets combustion gases vent while preventing backdraft."
+ },
+ {
+  "id": 388,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a toilet tank flapper chain adjustment?",
+  "back": "The chain must have enough slack to let the flapper seal but not so much it hangs and jams. A wrong adjustment causes running."
+ },
+ {
+  "id": 389,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water softener timer versus meter control?",
+  "back": "A timer regenerates on a schedule, while a meter regenerates after a set volume of water. The meter matches regeneration to actual use."
+ },
+ {
+  "id": 390,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a fixture drain tailpiece?",
+  "back": "The tailpiece is the short pipe from the fixture outlet down to the trap. It is connected to the trap and the sink or lavatory."
+ },
+ {
+  "id": 391,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water heater drain valve for?",
+  "back": "The drain valve flushes sediment from the bottom of the tank on schedule. It is also used to drain the tank for service."
+ },
+ {
+  "id": 392,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a shower mixing valve?",
+  "back": "A shower mixing valve blends hot and cold water and limits the temperature. A pressure balancing valve prevents scalds from pressure changes."
+ },
+ {
+  "id": 393,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water softener resin fouling?",
+  "back": "Fouled or channeled resin delivers hard water even when the softener regenerates. The resin is cleaned or replaced."
+ },
+ {
+  "id": 394,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a fixture support?",
+  "back": "A fixture support holds a water closet or urinal so it does not crack or pull away. Wall-hung fixtures use a carrier in the wall."
+ },
+ {
+  "id": 395,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water heater sediment flush?",
+  "back": "Flushing the tank removes sediment that reduces hot water volume and causes rumbling. It is done on the manufacturer's schedule."
+ },
+ {
+  "id": 396,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What protects a dishwasher drain from back siphonage?",
+  "back": "The dishwasher drain is protected by an air gap. A high loop alone is not the code-approved protection in Canada."
+ },
+ {
+  "id": 397,
+  "domain": "installs_tests_and_services_fixtures_appliances_and_water_treatment_systems",
+  "front": "What is a water treatment system test after installation?",
+  "back": "The treated water is tested to confirm the system removes the target contaminant, such as hardness or chlorine."
+ },
+ {
+  "id": 398,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic heating system?",
+  "back": "A hydronic system heats water in a boiler and circulates it to baseboard, radiators, or radiant loops, then returns the cooler water to the boiler."
+ },
+ {
+  "id": 399,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is the hydronic heat formula?",
+  "back": "Heat moved equals flow times 500 times the temperature drop in the common units. The 500 is the constant for water."
+ },
+ {
+  "id": 400,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a circulator?",
+  "back": "A circulator is the pump that moves water through a hydronic system. It is sized for the flow and head of the system."
+ },
+ {
+  "id": 401,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is an aquastat?",
+  "back": "An aquastat senses the boiler water temperature and starts and stops the burner to hold the setpoint."
+ },
+ {
+  "id": 402,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a low water cut-off?",
+  "back": "The low water cut-off stops the burner if the boiler water level drops, protecting the boiler from firing without water."
+ },
+ {
+  "id": 403,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic expansion tank for?",
+  "back": "The expansion tank absorbs the expansion of the water as it heats in a closed system. A waterlogged tank lets the pressure climb."
+ },
+ {
+  "id": 404,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "How is a hydronic system filled to avoid air?",
+  "back": "Fill slowly with the vents open, then purge each loop and top up the pressure. Air at the high points is vented."
+ },
+ {
+  "id": 405,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a zone valve?",
+  "back": "A zone valve opens when its thermostat calls for heat so hot water flows into that zone. A stuck valve leaves the zone cold."
+ },
+ {
+  "id": 406,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a balancing valve?",
+  "back": "A balancing valve sets the flow through each zone or unit so the farthest rooms get their share. It is set at commissioning."
+ },
+ {
+  "id": 407,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a check valve in a hydronic pump discharge?",
+  "back": "The check valve stops water from flowing backward through a pump that is off, which would rob the other zones."
+ },
+ {
+  "id": 408,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is an air separator?",
+  "back": "An air separator pulls air out of the hydronic water so it does not collect at the high points and stop flow."
+ },
+ {
+  "id": 409,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What causes one hydronic zone to stay cold?",
+  "back": "An air-bound loop, a stuck zone valve, or a zone pump or balancing valve that is not circulating. The plumber vents, then checks valves and the pump."
+ },
+ {
+  "id": 410,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a baseboard heating unit?",
+  "back": "A baseboard unit has a copper tube with aluminium fins in a metal cover. The fins increase the surface area that gives up heat."
+ },
+ {
+  "id": 411,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a radiant floor loop?",
+  "back": "A radiant loop runs PEX under the floor or in a slab, and the heat rises evenly. Each loop is balanced for its room."
+ },
+ {
+  "id": 412,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is propylene glycol used for in hydronics?",
+  "back": "Propylene glycol protects outdoor and snow melt systems from freezing. Its concentration is checked with a refractometer."
+ },
+ {
+  "id": 413,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "How is a hydronic relief valve tested?",
+  "back": "Lift the test lever while the system is at pressure and confirm water discharges and the valve reseats."
+ },
+ {
+  "id": 414,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic pressure test pressure?",
+  "back": "The system is tested at about one and a half times the working pressure, and the pressure must hold."
+ },
+ {
+  "id": 415,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's cold fill pressure?",
+  "back": "A typical residential hydronic system fills to about 12 to 15 psi cold. The expansion tank pre-charge matches it."
+ },
+ {
+  "id": 416,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic relief valve setting?",
+  "back": "The relief valve is set above the working pressure, commonly about 30 psi for a residential system, below the system rating."
+ },
+ {
+  "id": 417,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a wet rotor circulator?",
+  "back": "A wet rotor circulator is lubricated by the system water. It must never run dry, or it overheats."
+ },
+ {
+  "id": 418,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "How is air removed from a baseboard unit?",
+  "back": "Open the manual vent on the unit while the system pressure pushes the air out until water appears."
+ },
+ {
+  "id": 419,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic boiler's combustion air?",
+  "back": "The boiler burner needs enough combustion air to burn completely and vent safely. Starving it produces carbon monoxide."
+ },
+ {
+  "id": 420,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic temperature drop?",
+  "back": "The temperature drop is the difference between supply and return water temperatures. The system is designed around it."
+ },
+ {
+  "id": 421,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is an isolation flange on a circulator?",
+  "back": "Isolation flanges with valves on both sides let the pump be removed without draining the system."
+ },
+ {
+  "id": 422,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic zone thermostat?",
+  "back": "A zone thermostat calls for heat in its zone, opening the zone valve or starting the zone pump."
+ },
+ {
+  "id": 423,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a low-pressure steam system?",
+  "back": "A low-pressure steam system boils water and steam travels to radiators where it condenses and returns by gravity. It operates below about 15 psi and is not common core for plumbers."
+ },
+ {
+  "id": 424,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a steam trap?",
+  "back": "A steam trap lets condensate pass while holding steam in the radiator, so the system heats without losing steam."
+ },
+ {
+  "id": 425,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic panel radiator?",
+  "back": "A panel radiator is a cast iron or steel panel that radiates heat. It holds more water than baseboard, so it heats and cools slower."
+ },
+ {
+  "id": 426,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a snow melt system?",
+  "back": "A snow melt system runs antifreeze through outdoor tubing to melt snow, protected by propylene glycol."
+ },
+ {
+  "id": 427,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's air vent?",
+  "back": "Air vents, automatic or manual, release trapped air at the high points so the water can circulate."
+ },
+ {
+  "id": 428,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic boiler short cycling?",
+  "back": "Short cycling is the boiler firing and stopping constantly, caused by a controls or sizing problem."
+ },
+ {
+  "id": 429,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic fill valve?",
+  "back": "The fill valve adds water to the system and includes a backflow preventer. A leaking fill valve raises the system pressure."
+ },
+ {
+  "id": 430,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic flow switch?",
+  "back": "A flow switch proves the circulator is running before the burner fires."
+ },
+ {
+  "id": 431,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic boiler aquastat limit?",
+  "back": "The aquastat has low and high limits: the low keeps the water warm for domestic hot water, and the high stops the boiler before it overheats."
+ },
+ {
+  "id": 432,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's air separator location?",
+  "back": "The air separator is installed near the boiler where air is removed from the circulating water."
+ },
+ {
+  "id": 433,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic purge station?",
+  "back": "A purge station lets the installer push water through each loop to remove air during fill."
+ },
+ {
+  "id": 434,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's expansion tank sizing?",
+  "back": "The tank is sized for the system water volume and the temperature range, and pre-charged to the cold fill pressure."
+ },
+ {
+  "id": 435,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a condensing boiler?",
+  "back": "A condensing boiler uses cooler return water to condense flue gas and recover heat, so it is efficient with radiant systems that run cool."
+ },
+ {
+  "id": 436,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic chiller?",
+  "back": "A hydronic chiller makes chilled water that is circulated to fan coils or chilled beams for cooling. The condensate is trapped and drained."
+ },
+ {
+  "id": 437,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic cooling coil condensate line?",
+  "back": "The condensate from a cooling coil is trapped and drained so water does not leak or back up."
+ },
+ {
+  "id": 438,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's glycol concentration?",
+  "back": "The glycol concentration must protect the system at the coldest design temperature, checked with a refractometer each fall."
+ },
+ {
+  "id": 439,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic boiler's flue?",
+  "back": "The flue vents the combustion products out, and it must be connected, sized, and cleared of combustibles."
+ },
+ {
+  "id": 440,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's make-up water?",
+  "back": "Make-up water is the small amount added at the fill valve to replace leaks. A system that constantly needs make-up has a leak."
+ },
+ {
+  "id": 441,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic balancing valve's purpose?",
+  "back": "The balancing valve sets the flow so the farthest zones get their design share, because water follows the path of least resistance."
+ },
+ {
+  "id": 442,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic pump's head?",
+  "back": "Head is the resistance the system creates, and the circulator is sized for the flow and head."
+ },
+ {
+  "id": 443,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's water treatment?",
+  "back": "Water treatment protects the system from corrosion and scale. The water is tested and treated on a schedule."
+ },
+ {
+  "id": 444,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's service record?",
+  "back": "The plumber records cold fill pressure, operating pressure, temperatures, relief setting, and tank charge so future problems can be compared."
+ },
+ {
+  "id": 445,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic pressure loss over time?",
+  "back": "A system that slowly loses pressure between visits has a hidden leak, checked at the relief valve, air vents, and joints."
+ },
+ {
+  "id": 446,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's supply and return?",
+  "back": "The supply carries hot water from the boiler to the heating units, and the return carries the cooler water back."
+ },
+ {
+  "id": 447,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic pump that runs continuously?",
+  "back": "A pump that runs continuously can overheat the water or waste energy. It is wired through the controls to run on demand."
+ },
+ {
+  "id": 448,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic zone pump?",
+  "back": "A zone pump circulates water through its own zone, started by that zone's thermostat."
+ },
+ {
+  "id": 449,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's air-bound pump?",
+  "back": "An air-bound pump spins without moving water and can overheat. The air is vented before the pump is blamed."
+ },
+ {
+  "id": 450,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic indirect water heater?",
+  "back": "An indirect water heater is a tank heated by the boiler through a coil, giving domestic hot water from the hydronic system."
+ },
+ {
+  "id": 451,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's flow rate unit?",
+  "back": "Flow is measured in litres per minute or gallons per minute. The formula links flow, temperature drop, and heat."
+ },
+ {
+  "id": 452,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic boiler's low limit?",
+  "back": "The low limit keeps the boiler water warm enough to heat the domestic hot water coil, where one is installed."
+ },
+ {
+  "id": 453,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's air vent at the high point?",
+  "back": "Air collects at the high points and stops flow, so vents are placed there to release it."
+ },
+ {
+  "id": 454,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic baseboard fin's purpose?",
+  "back": "The fins increase the surface area that transfers heat from the copper tube to the air passing through."
+ },
+ {
+  "id": 455,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's relief valve test?",
+  "back": "The relief valve is tested by lifting the lever at system pressure and confirming discharge and reseat."
+ },
+ {
+  "id": 456,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's expansion tank failure?",
+  "back": "A waterlogged expansion tank cannot absorb expansion, so the pressure climbs and the relief valve drips."
+ },
+ {
+  "id": 457,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's fill pressure check?",
+  "back": "The cold fill pressure is checked and the expansion tank pre-charge matched to it."
+ },
+ {
+  "id": 458,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic boiler's safety valve?",
+  "back": "The relief or safety valve protects the boiler from overpressure and must never be blocked or capped."
+ },
+ {
+  "id": 459,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's glycol refractometer?",
+  "back": "A refractometer reads the glycol concentration to confirm the freeze protection."
+ },
+ {
+  "id": 460,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's air purging order?",
+  "back": "Vent the air, check the valves, then check the pump, because air is the most common cause of a cold zone."
+ },
+ {
+  "id": 461,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's heat emitter sizing?",
+  "back": "The emitters are sized from each room's heat loss, so a room with more windows gets more baseboard or radiator."
+ },
+ {
+  "id": 462,
+  "domain": "installs_tests_and_services_low_pressure_steam_and_hydronic_systems",
+  "front": "What is a hydronic system's boiler water temperature control?",
+  "back": "The aquastat controls the boiler water temperature, with a high limit that stops the burner before it overheats."
+ },
+ {
+  "id": 463,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is medical gas piping joined with?",
+  "back": "Medical gas piping is cleaned copper joined by brazing with the specified filler metal. The system is then leak and purity tested."
+ },
+ {
+  "id": 464,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is the Diameter Index Safety System?",
+  "back": "DISS gives each medical gas its own thread size and shape so a hose from one gas cannot be connected to another."
+ },
+ {
+  "id": 465,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a medical gas zone valve?",
+  "back": "A zone valve isolates one area of a medical gas system for service while the rest stays in service."
+ },
+ {
+  "id": 466,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a compressed air dryer for?",
+  "back": "A compressed air dryer removes moisture so the air does not rust piping and damage tools."
+ },
+ {
+  "id": 467,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a sediment trap on a gas appliance?",
+  "back": "A sediment trap, or drip leg, is a vertical pocket at the appliance inlet that catches dirt and moisture before they reach the appliance."
+ },
+ {
+  "id": 468,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "How is a gas leak found?",
+  "back": "Soapy water bubbles at the leaking joint, or an electronic detector finds it. A flame is never used to search for a gas leak."
+ },
+ {
+  "id": 469,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is the vent line on an oil tank for?",
+  "back": "The oil tank vent lets air escape as the tank fills, and the whistle or overflow signals the driver that the tank is full."
+ },
+ {
+  "id": 470,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a compressed air receiver for?",
+  "back": "The receiver stores the air and smooths the pressure between the compressor and the system."
+ },
+ {
+  "id": 471,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "Where are compressed air condensate traps placed?",
+  "back": "Condensate traps are placed at the low points of the mains and at the base of each drop so moisture is drained."
+ },
+ {
+  "id": 472,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is process piping?",
+  "back": "Process piping carries the fluids and gases an industrial process needs. Its material is matched to the chemical it carries."
+ },
+ {
+  "id": 473,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a hydrostatic test?",
+  "back": "A hydrostatic test fills the pipe with water and pressurizes it to prove the joints hold. A pneumatic test uses air or gas."
+ },
+ {
+  "id": 474,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a medical gas purity test?",
+  "back": "The purity test confirms the cleaned and brazed system delivers gas that is not contaminated. It follows the leak test."
+ },
+ {
+  "id": 475,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a compressed air filter for?",
+  "back": "The filter removes oil and particles before the air reaches the tools. It is matched to the contaminant."
+ },
+ {
+  "id": 476,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is CSA B149?",
+  "back": "CSA B149 is the Canadian gas code that governs natural gas and propane piping installation and testing."
+ },
+ {
+  "id": 477,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is CSA B139?",
+  "back": "CSA B139 is the Canadian code for oil-burning equipment installation, covering tanks, supply lines, and burners."
+ },
+ {
+  "id": 478,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is an irrigation backflow preventer?",
+  "back": "An irrigation system connects to potable water through a backflow preventer matched to the hazard, often an RP assembly where fertilizer is used."
+ },
+ {
+  "id": 479,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a compressed air regulator?",
+  "back": "The regulator sets the pressure for each tool drop. It is installed with the filters and condensate traps."
+ },
+ {
+  "id": 480,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a gas appliance shut-off valve?",
+  "back": "The appliance shut-off is installed within reach in the gas line so the appliance can be isolated for service."
+ },
+ {
+  "id": 481,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a medical gas master alarm?",
+  "back": "The master alarm warns when a medical gas system pressure drops, so staff can respond before patient safety is affected."
+ },
+ {
+  "id": 482,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a chemical piping containment?",
+  "back": "Chemical piping may be double walled or contained so a leak is held and reported instead of spreading."
+ },
+ {
+  "id": 483,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a fuel oil filter for?",
+  "back": "The oil filter protects the burner nozzle from dirt. It is changed on schedule."
+ },
+ {
+  "id": 484,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a compressed air dew point?",
+  "back": "The dew point is the temperature at which moisture condenses. Very dry systems use a desiccant dryer."
+ },
+ {
+  "id": 485,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a medical gas outlet label?",
+  "back": "Each outlet is labelled with its gas, and the label plus the DISS connection prevent wrong connections."
+ },
+ {
+  "id": 486,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a gas pressure test?",
+  "back": "A gas line is tested with air or the test gas at the code pressure, and the pressure must hold. A drop means a leak."
+ },
+ {
+  "id": 487,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a specialized system's service order?",
+  "back": "Isolate the system, verify it is safe, repair, test the section, then restore service with the hazard controls in place."
+ },
+ {
+  "id": 488,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a compressed air drop?",
+  "back": "A drop is the branch from the main to a work station, with a shut-off, regulator if needed, and a condensate trap."
+ },
+ {
+  "id": 489,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is an irrigation zone valve?",
+  "back": "A zone valve is a solenoid valve that opens electrically for its zone, controlled by the irrigation controller."
+ },
+ {
+  "id": 490,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a medical gas brazing filler?",
+  "back": "The brazing filler is the metal specified for medical gas piping, and the joints are brazed, not soldered."
+ },
+ {
+  "id": 491,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a fuel oil tank shut-off?",
+  "back": "The tank shut-off valve isolates the oil supply at the tank for service and safety."
+ },
+ {
+  "id": 492,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a compressed air desiccant dryer?",
+  "back": "A desiccant dryer removes moisture chemically for systems that need very dry air, such as instrument or paint air."
+ },
+ {
+  "id": 493,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a gas line sediment trap's location?",
+  "back": "The sediment trap is installed at the appliance inlet, extending downward from the tee, so debris and moisture drop into the trap before reaching the appliance."
+ },
+ {
+  "id": 494,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is an irrigation controller?",
+  "back": "The controller opens each zone valve on a schedule, and rain or soil sensors stop it when the ground does not need water."
+ },
+ {
+  "id": 495,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a medical gas vacuum system?",
+  "back": "Medical vacuum removes gases and fluids from patient areas. It is one of the medical gas and vacuum services in a hospital."
+ },
+ {
+  "id": 496,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a gas line's appliance connector?",
+  "back": "The appliance connector is the approved flexible connection between the gas line and the appliance, with the shut-off before it."
+ },
+ {
+  "id": 497,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a compressed air system's purpose?",
+  "back": "A compressed air system delivers clean, dry air at the right pressure to tools and equipment."
+ },
+ {
+  "id": 498,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a fuel oil burner's air supply?",
+  "back": "The burner needs enough combustion air to burn cleanly, and the venting is checked as part of the installation."
+ },
+ {
+  "id": 499,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What is a specialized system's labelling?",
+  "back": "Specialized and process piping is labelled or colour coded so workers can identify the contents and hazards."
+ },
+ {
+  "id": 500,
+  "domain": "installs_tests_and_services_specialized_systems",
+  "front": "What are the two specialized tasks not common core for plumbers?",
+  "back": "Low-pressure steam systems and potable water fire protection are not common core, so they are not tested on the national Red Seal Plumber exam."
+ }
+]
